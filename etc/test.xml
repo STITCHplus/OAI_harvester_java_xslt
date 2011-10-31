@@ -1,0 +1,2417 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2010-03-31T10:13:58.970Z</responseDate><request metadataPrefix="INDEXING" verb="ListRecords" set="GGC">http://services.kb.nl/mdo/oai</request><ListRecords><record><header><identifier>GGC:AC:061547441</identifier><datestamp>2007-07-07</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:061547441</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=061547441</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">duits</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+ <dc:language xml:lang="en">German</dc:language>
+ <dc:language xml:lang="fr">allemand</dc:language>
+ <dcterms:issued>1908</dcterms:issued>
+ <dc:title xml:lang="de">Ein deutsches Adambuch / nach einer ungedruckten Handschrift der Hamburger Stadtbibliothek aus dem XV. Jahrhundert hrsg. und untersucht von Hans Vollmer</dc:title>
+ <dc:contributor>Vollmer, Hans</dc:contributor>
+ <dc:publisher>Hamburg</dc:publisher>
+ <dcterms:extent>.. cm</dcterms:extent>
+ <dcterms:isPartOf>Gelehrtenschule des Johanneums ; Bericht 1907-1908</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <Date>1908</Date>
+</index></metadata></record><record><header><identifier>GGC:AC:316904422</identifier><datestamp>2009-05-20</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">artikel</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:316904422</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=316904422</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1998</dc:date>
+ <dc:title xml:lang="nl">Vrouwenoorlog om Ravensbrück / Angela van Son, Mireille Sennef</dc:title>
+ <dc:creator>Son, Angela van</dc:creator>
+ <dc:creator>Sennef, Mireille</dc:creator>
+ <dc:description>In: Historisch nieuwsblad</dc:description>
+ <dcterms:abstract>Bij de discussie over de bevrijding van het vrouwenkamp Ravensbrück worden termen gebruikt als geschiedvervalsing, zelfverlooching en manipulatie. De vraag of het Rode Leger vrouwen heeft verkracht lijkt minder relevant. In het kader van politisering van de geschiedenis worden de publicaties van Jolande Withuis, Sonja Prins, Marianne Kröger en Elsbeth Etty besproken</dcterms:abstract>
+</srw_dc:dc><index>
+ <date>1998</date>
+ <enddate>1998</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:317885642</identifier><datestamp>2009-05-20</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">bladmuziek</dc:type>
+ <dc:type xsi:type="DCMIType">Sound</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:317885642</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://opc4.kb.nl/DB=1/PPN?PPN=317885642</dcx:recordIdentifier>
+ <dc:date>[179X?]</dc:date>
+ <dc:title>Six quatuor ou divertissements : à deux violons, alto &amp; basse : oeuvre XIX / composés par Giuseppe Haydn</dc:title>
+ <dcterms:alternative xsi:type="dcx:uniform">Kwartetten, violen [2], altviool, cello, Hob.III:37-42, "Russische kwartetten"</dcterms:alternative>
+ <dc:creator dcx:recordIdentifier="AC:069612250">Haydn, Giuseppe</dc:creator>
+ <dc:publisher>Amsterdam [etc.] : Hummel</dc:publisher>
+ <dcterms:extent>4 partijen ([20], 17, 15, 15 p.)</dcterms:extent>
+ <dcterms:extent>33? cm</dcterms:extent>
+ <dcx:annotation>Niet RISM H 3481!</dcx:annotation>
+ <dcx:annotation>Abusievelijk 'quatuor' i.p.v. 'quatuors'</dcx:annotation>
+ <dcx:annotation>De oorspr. Hummel-uitgave (1782, ook pl.nr. 527) heeft geïll. titelpagina's (gravure)</dcx:annotation>
+ <dcx:annotation>Oorspr. uitg.: Wien : Artaria, 1782</dcx:annotation>
+ <dcx:annotation>Bevat: Kwartetten Hob.III:41, 37-40, 42 (op.33)</dcx:annotation>
+ <dcx:annotation>MGG2P, vol.8, 1011. - JohanssonH, vol.1, p.94 (maar één uitg. genoemd)</dcx:annotation>
+ <dcx:annotation>Jaar van compositie: 1781 (niet 1778-1781)</dcx:annotation>
+ <dcx:annotation dcx:itemId="512873259">Exemplaar met signatuur: NMI VL 604. - Vioolcollectie Willem Noske. - Exemplaar (afgesneden tot 30 cm) incompleet: 1e vioolpartij ontbreekt. - Altvioolpartij met gegraveerde titelpagina maar muziek in lithografie [na 1796]. - Vgl. microfiches VII/4362 (oorspr. Hummel-uitg. 1782)</dcx:annotation>
+</srw_dc:dc><index>
+ <date>1790</date>
+ <enddate>1799</enddate>
+ <PPN>AC:097541184</PPN>
+ <PPN>AC:069612250</PPN>
+ <SelSleutel>rmmn</SelSleutel>
+</index></metadata></record><record><header><identifier>GGC:AC:802614957</identifier><datestamp>2009-05-20</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:802614957</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=802614957</dcx:recordIdentifier>
+ <dc:identifier xsi:type="OCLC">63435837</dc:identifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9010015068</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date> = 1975</dc:date>
+ <dc:title xml:lang="nl">De sneeuwtĳger / Desmond Bagley ; [vert. uit het Engels door Jan Bernard]</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:069044724">Bagley, Desmond</dc:creator>
+ <dc:contributor dcx:recordIdentifier="AC:070830541">Bernard, Jan</dc:contributor>
+ <mods:edition>7e dr</mods:edition>
+ <dc:publisher>Amsterdam [etc.] : Elsevier</dc:publisher>
+ <dcterms:extent>303 p</dcterms:extent>
+ <dcterms:extent>20 cm</dcterms:extent>
+ <dcx:annotation>1e dr. Nederlandse uitg.: 1975</dcx:annotation>
+ <dc:description>Vert. van: The snow tiger. - Londen : Collins, 1975</dc:description>
+ <dc:subject xsi:type="dcx:Brinkman" xml:lang="nl" dcx:recordIdentifier="AC:075629410">romans en novellen ; vertaald</dc:subject>
+</srw_dc:dc><index>
+ <ISBN>9010015068</ISBN>
+ <date>1979</date>
+ <enddate>1979</enddate>
+ <PPN>AC:069044724</PPN>
+ <PPN>AC:070830541</PPN>
+ <PPN>AC:075629410</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:269673326</identifier><datestamp>2009-05-20</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:269673326</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=269673326</dcx:recordIdentifier>
+ <dc:identifier xsi:type="OCLC">66628225</dc:identifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9074336787</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>2002</dc:date>
+ <dc:title xml:lang="nl">Vrijheid luistert nauw / Anne van der Meiden</dc:title>
+ <dc:creator>Meiden, Anne van der</dc:creator>
+ <dc:publisher>Amsterdam : Stichting Collectieve Propaganda van het Nederlandse Boek [etc.]</dc:publisher>
+ <dcterms:extent>16 p</dcterms:extent>
+ <dcterms:extent>19 cm</dcterms:extent>
+ <dcx:annotation>Uitg. t.g.v. de Nationale Viering van de Bevrijding 2002</dcx:annotation>
+ <dcx:annotation>In keerdruk met: Nooit vergeten / F. Springer</dcx:annotation>
+</srw_dc:dc><index>
+ <ISBN>9074336787</ISBN>
+ <date>2002</date>
+ <enddate>2002</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:22655953X</identifier><datestamp>2009-05-20</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:22655953X</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=22655953X</dcx:recordIdentifier>
+ <dc:identifier xsi:type="OCLC">63502910</dc:identifier>
+ <dc:identifier xsi:type="dcterms:ISBN">901204376X</dc:identifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9012043778</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1983</dc:date>
+ <dc:title xml:lang="nl">De drie groene structuurschema's : alsmede de partiele herziening structuurschema vaarwegen / [door de] Raad van Advies voor de Ruimtelijke Ordening</dc:title>
+ <dcterms:alternative>Structuurschema voor de landinrichting</dcterms:alternative>
+ <dcterms:alternative>Structuurschema openluchtrecreatie</dcterms:alternative>
+ <dcterms:alternative>Structuurschema natuur- en landschapsbehoud</dcterms:alternative>
+ <dc:contributor>Raad van Advies voor de Ruimtelijke Ordening ('s-Gravenhage)</dc:contributor>
+ <dc:publisher>'s-Gravenhage : Staatsuitgeverij</dc:publisher>
+ <dcterms:extent>Dl. b,c</dcterms:extent>
+ <dcterms:extent>30 cm</dcterms:extent>
+ <dcterms:isPartOf>Zitting / Tweede Kamer der Staten Generaal 1982-1983 ; no. 16600, no. 3-4, no. 5-6</dcterms:isPartOf>
+ <dcx:annotation>Bevat: Structuurschema voor de landinrichting</dcx:annotation>
+ <dcx:annotation>Structuurschema openluchtrecreatie</dcx:annotation>
+ <dcx:annotation>Structuurschema natuur- en landschapsbehoud</dcx:annotation>
+ <dcx:annotation>Dl. b: Hoofdlijnen uit de inspraak. - Dl. c: Advies</dcx:annotation>
+</srw_dc:dc><index>
+ <ISBN>901204376X</ISBN>
+ <date>1983</date>
+ <enddate>1983</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:305582739</identifier><datestamp>2009-05-20</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:305582739</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=305582739</dcx:recordIdentifier>
+ <dc:identifier xsi:type="OCLC">219587037</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1959</dc:date>
+ <dc:title xml:lang="nl">Bos en beemd : zestig jaar evolutie : Staatsbosbeheer Utrecht, 1899-1959</dc:title>
+ <dc:publisher>'s-Gravenhage : [s.n.]</dc:publisher>
+ <dcterms:extent>ill.</dcterms:extent>
+ <dcterms:extent>  cm</dcterms:extent>
+</srw_dc:dc><index>
+ <date>1959</date>
+ <enddate>1959</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:317873857</identifier><datestamp>2009-05-20</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:317873857</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=317873857</dcx:recordIdentifier>
+ <dc:identifier xsi:type="OCLC">318894598</dc:identifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9789063053888</dc:identifier>
+ <dc:identifier xsi:type="dcx:Brinkman">B0905085</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>cop. 2009</dc:date>
+ <dc:title xml:lang="nl">Moordbaan / Dick Francis ; en Felix Francis ; vert. [uit het Engels] door Marga Blankestĳn</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:068959869">Francis, Dick</dc:creator>
+ <dc:contributor dcx:recordIdentifier="AC:304440868">Francis, Felix</dc:contributor>
+ <dc:contributor dcx:recordIdentifier="AC:189162538">Blankestĳn, Marga</dc:contributor>
+ <dc:publisher>Amsterdam [etc.] : Archipel</dc:publisher>
+ <dcterms:extent>353 p</dcterms:extent>
+ <dcterms:extent>22 cm</dcterms:extent>
+ <dc:description>Vert. van: Silks. - London : Joseph, cop. 2008</dc:description>
+ <dc:subject xsi:type="dcx:Brinkman" xml:lang="nl" dcx:recordIdentifier="AC:075629410">romans en novellen ; vertaald</dc:subject>
+ <dc:subject xsi:type="dcx:NUR">331</dc:subject>
+ <dcterms:abstract>Een jonge advocaat en tevens amateur-jockey wordt door een van Engelands topjockeys gevraagd hem te verdedigen als hĳ wordt beschuldigd van moord op een collega.</dcterms:abstract>
+</srw_dc:dc><index>
+ <date>2009</date>
+ <enddate>2009</enddate>
+ <PPN>AC:068959869</PPN>
+ <PPN>AC:304440868</PPN>
+ <PPN>AC:189162538</PPN>
+ <PPN>AC:075629410</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:317779044</identifier><datestamp>2009-05-20</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:317779044</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=317779044</dcx:recordIdentifier>
+ <dc:identifier xsi:type="OCLC">318403391</dc:identifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9789022995358</dc:identifier>
+ <dc:identifier xsi:type="dcx:Brinkman">B0904916</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>cop. 2009</dc:date>
+ <dc:title xml:lang="nl">In die heerlĳke zomertĳd / Mari Jungstedt ; [vert. uit het Zweeds Neeltje Wiersma]</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:277955564">Jungstedt, Mari</dc:creator>
+ <dc:contributor dcx:recordIdentifier="AC:248791923">Wiersma, Neeltje</dc:contributor>
+ <dc:publisher>Utrecht : Bruna</dc:publisher>
+ <dcterms:extent>255 p</dcterms:extent>
+ <dcterms:extent>22 cm</dcterms:extent>
+ <dc:description>Vert. van: I denna ljuva sommartid. - Stockholm : Bonnier, cop. 2007</dc:description>
+ <dc:subject xsi:type="dcx:Brinkman" xml:lang="nl" dcx:recordIdentifier="AC:075629410">romans en novellen ; vertaald</dc:subject>
+ <dc:subject xsi:type="dcx:NUR">305</dc:subject>
+ <dcterms:abstract>De politie en een journalist van het Zweedse eiland Gotland onderzoeken de moord op de eignaar van een bouwbedrĳf die met kogels in hoofd en buik om het leven is gebracht.</dcterms:abstract>
+</srw_dc:dc><index>
+ <date>2009</date>
+ <enddate>2009</enddate>
+ <PPN>AC:277955564</PPN>
+ <PPN>AC:248791923</PPN>
+ <PPN>AC:075629410</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:181575493</identifier><datestamp>2009-05-20</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:181575493</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=181575493</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9021534789</dc:identifier>
+ <dc:identifier xsi:type="dcx:Brinkman">B9904732</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xml:lang="nl">turks</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">tur</dc:language>
+ <dc:language xml:lang="en">Turkish</dc:language>
+ <dc:language xml:lang="fr">turc</dc:language>
+ <dc:date>1999</dc:date>
+ <dcterms:isPartOf dcx:recordIdentifier="AC:039905802">Wolters' mini-woordenboek</dcterms:isPartOf>
+ <dc:title>Wolters' mini-woordenboek. Turks-Nederlands, Nederlands-Turks / [bew. Rob Ermers ... et al.]</dc:title>
+ <dc:contributor dcx:recordIdentifier="AC:074285874">Ermers, Rob</dc:contributor>
+ <mods:edition>7e dr</mods:edition>
+ <dc:publisher>Utrecht [etc.] : Kosmos-Z&amp;K</dc:publisher>
+ <dcterms:extent>336 p</dcterms:extent>
+ <dcterms:extent>16 cm</dcterms:extent>
+ <dcx:annotation>1e dr.: Groningen : Wolters-Noordhoff, 1989</dcx:annotation>
+ <dc:subject xsi:type="dcx:Brinkman" xml:lang="nl" dcx:recordIdentifier="AC:075664534">Turkse taal- en letterkunde</dc:subject>
+ <dc:subject xsi:type="dcx:Brinkman" xml:lang="nl" dcx:recordIdentifier="AC:075627752">woordenboeken</dc:subject>
+ <dcterms:abstract>Beknopte woordenlĳst (10.000 woorden) en summiere conversatiegids.</dcterms:abstract>
+</srw_dc:dc><index>
+ <ISBN>9021534789</ISBN>
+ <date>1999</date>
+ <enddate>1999</enddate>
+ <PPN>AC:039905802</PPN>
+ <PPN>AC:074285874</PPN>
+ <PPN>AC:078079446</PPN>
+ <PPN>AC:077973380</PPN>
+ <PPN>AC:078079446</PPN>
+ <PPN>AC:075664534</PPN>
+ <PPN>AC:075627752</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:148293786</identifier><datestamp>2009-05-21</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:148293786</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=148293786</dcx:recordIdentifier>
+ <dc:identifier xsi:type="OCLC">68722989</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1979</dc:date>
+ <dc:title xml:lang="nl">Servie Janssen performance / [fotoos Cathrien van Ommen]</dc:title>
+ <dc:creator>Janssen, Servie</dc:creator>
+ <dc:creator>Ommen, Cathrien van</dc:creator>
+ <dc:publisher>Hengelo</dc:publisher>
+ <dcterms:extent>ongepag</dcterms:extent>
+ <dcx:annotation>publicatie onstaan n.a.v. de manifestatie "Beelden, installaties en performances", augustus 1979, Hengelo</dcx:annotation>
+</srw_dc:dc><index>
+ <date>1979</date>
+ <enddate>1979</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:309550254</identifier><datestamp>2009-05-21</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boeken</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:309550254</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=309550254</dcx:recordIdentifier>
+ <dc:identifier xsi:type="OCLC">226315210</dc:identifier>
+ <dc:language xml:lang="nl">engels</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+ <dc:language xml:lang="en">English</dc:language>
+ <dc:language xml:lang="fr">anglais</dc:language>
+ <dc:date>2008-...</dc:date>
+ <dc:title xml:lang="en">The China economy yearbook</dc:title>
+ <dc:publisher>Leiden [etc.] : Brill</dc:publisher>
+ <dcterms:extent>.. dl</dcterms:extent>
+ <dcterms:extent>25 cm</dcterms:extent>
+ <dcx:annotation>Vert. uit het Chinees</dcx:annotation>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:078647533">Regionale economie </dc:subject>
+ <dcterms:spatial xml:lang="nl">China</dcterms:spatial>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:097864927">Jaarboeken (vorm)</dc:subject>
+ <dc:subject xsi:type="dcx:BCL" dcx:recordIdentifier="AC:077607309">83.64</dc:subject>
+</srw_dc:dc><index>
+ <date>2008</date>
+ <enddate>9999</enddate>
+ <PPN>AC:078647533</PPN>
+ <PPN>AC:078467772</PPN>
+ <PPN>AC:097864927</PPN>
+ <PPN>AC:077607309</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:317861255</identifier><datestamp>2009-05-21</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:317861255</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=317861255</dcx:recordIdentifier>
+ <dc:identifier xsi:type="OCLC">318092958</dc:identifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9788884674784</dc:identifier>
+ <dc:language xml:lang="nl">italiaans</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">ita</dc:language>
+ <dc:language xml:lang="en">Italian</dc:language>
+ <dc:language xml:lang="fr">italien</dc:language>
+ <dc:date>2008</dc:date>
+ <dcx:annotation>Met lit.opg</dcx:annotation>
+ <dc:title xml:lang="it">Paesaggi pastorali : studio etnoarcheologico sul pastoralismo in Sardegna  / Antoon Cornelis Mientjes</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:298814412">Mientjes, Antoon Cornelis</dc:creator>
+ <dc:publisher>Cagliari : CUEC</dc:publisher>
+ <dcterms:extent>258 p</dcterms:extent>
+ <dcterms:extent>29 cm</dcterms:extent>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:114490333">Archeologische $vondsten</dc:subject>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:078693063">Transhumance</dc:subject>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:078478227">Cultuurgeschiedenis</dc:subject>
+ <dcterms:spatial xml:lang="nl">Sardinië</dcterms:spatial>
+ <dc:subject xsi:type="dcx:BCL" dcx:recordIdentifier="AC:077609492">15.35</dc:subject>
+ <dcterms:temporal>1800-2000</dcterms:temporal>
+</srw_dc:dc><index>
+ <date>2008</date>
+ <enddate>2008</enddate>
+ <PPN>AC:298814412</PPN>
+ <PPN>AC:114490333</PPN>
+ <PPN>AC:078693063</PPN>
+ <PPN>AC:078478227</PPN>
+ <PPN>AC:095959904</PPN>
+ <PPN>AC:077609492</PPN>
+ <PPN>AC:241924170</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:318196549</identifier><datestamp>2009-05-21</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:318196549</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=318196549</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9789080956698</dc:identifier>
+ <dc:language xml:lang="nl">engels</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+ <dc:language xml:lang="en">English</dc:language>
+ <dc:language xml:lang="fr">anglais</dc:language>
+ <dc:date>deze informatie is niet (meer) bekend 01-01-2008</dc:date>
+ <dc:title xml:lang="en">Philippines in a Nutshell : discover Asia's Most Exotic Country / D. J. Barreveld</dc:title>
+ <dc:creator>Barreveld, D. J.</dc:creator>
+ <mods:edition>1e dr</mods:edition>
+ <dc:publisher>Tilburg : Mabuhay</dc:publisher>
+ <dcterms:extent>340 p</dcterms:extent>
+ <dcterms:extent>.. cm</dcterms:extent>
+ <dc:subject xsi:type="dcx:NUR">517</dc:subject>
+</srw_dc:dc><index>
+ <date>2008</date>
+ <enddate>2008</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:123862086</identifier><datestamp>2009-05-21</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:123862086</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=123862086</dcx:recordIdentifier>
+ <dc:identifier xsi:type="OCLC">4718509</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1953</dc:date>
+ <dc:title xml:lang="nl">Revolutie der eenzamen; spiegel van een tijdperk / P.J. Bouman</dc:title>
+ <dc:creator>Bouman, P.J.</dc:creator>
+ <mods:edition>7e dr</mods:edition>
+ <dc:publisher>Assen</dc:publisher>
+ <dcterms:extent>453 p</dcterms:extent>
+ <dcterms:extent>8'</dcterms:extent>
+ <dcx:annotation>Eerste druk eveneens 1953</dcx:annotation>
+</srw_dc:dc><index>
+ <date>1953</date>
+ <enddate>1953</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:045103399</identifier><datestamp>2009-05-23</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">tijdschrift/serie</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:045103399</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=045103399</dcx:recordIdentifier>
+ <dc:identifier xsi:type="OCLC">72942881</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1941-1950</dc:date>
+ <dc:title xml:lang="nl">Nederlandsche eeuwreeks</dc:title>
+ <dcterms:alternative>Nederlandse eeuwreeks</dcterms:alternative>
+ <dcterms:extent>Nummering: Jrg. 1 (1941)–jrg. 10 (1950)</dcterms:extent>
+ <dc:publisher>Amsterdam : Querido</dc:publisher>
+ <dcterms:extent>25 cm</dcterms:extent>
+ <dc:description>Later o.d.t.: Nederlandse eeuwreeks</dc:description>
+</srw_dc:dc><index>
+ <date>1941</date>
+ <enddate>1950</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:309464900</identifier><datestamp>2009-05-23</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:309464900</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=309464900</dcx:recordIdentifier>
+ <dc:identifier xsi:type="OCLC">70062982</dc:identifier>
+ <dc:identifier xsi:type="dcterms:ISBN">0810858711</dc:identifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9780810858718</dc:identifier>
+ <dc:language xml:lang="nl">engels</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+ <dc:language xml:lang="en">English</dc:language>
+ <dc:language xml:lang="fr">anglais</dc:language>
+ <dc:date>2006</dc:date>
+ <dcx:annotation>Met lit. opg. (p. 147-165) en index</dcx:annotation>
+ <dc:title xml:lang="en">A manual for the performance library / Russ Girsberger</dc:title>
+ <dc:creator>Girsberger, Russ</dc:creator>
+ <dc:publisher>Lanham, Md ; Plymouth : Scarecrow Press</dc:publisher>
+ <dcterms:extent>ix, 171 p</dcterms:extent>
+ <dcterms:extent>23 cm</dcterms:extent>
+ <dcterms:isPartOf dcx:recordIdentifier="AC:288571851">Music Library Association basic manual series ; 6</dcterms:isPartOf>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:078452473">Bibliothecarissen </dc:subject>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:078597498">Muziekbibliotheken </dc:subject>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:078949173">Voorbereiding</dc:subject>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:107680718">Bladmuziek</dc:subject>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:078597781">Muziekuitvoeringen</dc:subject>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:088143201">Gidsen (vorm)</dc:subject>
+ <dc:subject xsi:type="dcx:BCL" dcx:recordIdentifier="AC:077601440">24.41</dc:subject>
+ <dcx:annotation>What is a performance librarian? -- Acquisitions -- Cataloging -- Processing -- Part preparation -- Distribution -- Other duties and challenges</dcx:annotation>
+</srw_dc:dc><index>
+ <ISBN>0810858711</ISBN>
+ <date>2006</date>
+ <enddate>2006</enddate>
+ <PPN>AC:288571851</PPN>
+ <PPN>AC:078452473</PPN>
+ <PPN>AC:078597498</PPN>
+ <PPN>AC:078949173</PPN>
+ <PPN>AC:107680718</PPN>
+ <PPN>AC:078597781</PPN>
+ <PPN>AC:088143201</PPN>
+ <PPN>AC:077601440</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:865645264</identifier><datestamp>2009-05-23</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:865645264</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=865645264</dcx:recordIdentifier>
+ <dc:identifier xsi:type="OCLC">71417347</dc:identifier>
+ <dc:identifier xsi:type="dcterms:ISBN">3259086145</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>[1982]</dc:date>
+ <dcx:annotation>Beschrijving van land en volk</dcx:annotation>
+ <dc:title xml:lang="nl">Frankrijk / tekst: Guy Gouëzel ; cartografie: Kümmerly+Frey</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:069986703">Gouëzel, Guy</dc:creator>
+ <dc:contributor dcx:recordIdentifier="AC:07533318X">Kümmerly+Frey, Bern</dc:contributor>
+ <dc:publisher>[Den Haag] : ANWB</dc:publisher>
+ <dcterms:extent>219 p.</dcterms:extent>
+ <dcterms:extent>33 cm</dcterms:extent>
+</srw_dc:dc><index>
+ <ISBN>3259086145</ISBN>
+ <date>1982</date>
+ <enddate>1982</enddate>
+ <PPN>AC:069986703</PPN>
+ <PPN>AC:07533318X</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:11332202X</identifier><datestamp>2009-05-23</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:11332202X</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=11332202X</dcx:recordIdentifier>
+ <dc:identifier xsi:type="OCLC">66375202</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1951</dc:date>
+ <dc:title xml:lang="nl">Probleemstelling : geestelĳke aspecten van de industrialisatie / F. van der Ven</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:069064024">Ven, F.J.H.M. van der</dc:creator>
+ <dc:publisher>Tilburg : Bergmans</dc:publisher>
+ <dcterms:extent>.. p</dcterms:extent>
+ <dcterms:extent>4°</dcterms:extent>
+ <dc:description>Overdr. uit: Brabantia Nostra ; jrg. 9, no. 10</dc:description>
+</srw_dc:dc><index>
+ <date>1951</date>
+ <enddate>1951</enddate>
+ <PPN>AC:069064024</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:086632094</identifier><datestamp>2009-05-26</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:086632094</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=086632094</dcx:recordIdentifier>
+ <dc:identifier xsi:type="OCLC">65676046</dc:identifier>
+ <dc:language xml:lang="nl">frans</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">fre</dc:language>
+ <dc:language xml:lang="en">French</dc:language>
+ <dc:language xml:lang="fr">français</dc:language>
+ <dc:date>1907</dc:date>
+ <dc:title xml:lang="fr">Précis de droit administratif et de droit public général / Maurice Hauriou</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:06796110X">Hauriou, Maurice</dc:creator>
+ <mods:edition>6e éd</mods:edition>
+ <dc:publisher>Paris</dc:publisher>
+ <dcterms:extent>.. p</dcterms:extent>
+ <dcterms:extent>in-8</dcterms:extent>
+</srw_dc:dc><index>
+ <date>1907</date>
+ <enddate>1907</enddate>
+ <PPN>AC:06796110X</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:840350023</identifier><datestamp>2009-05-26</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:840350023</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=840350023</dcx:recordIdentifier>
+ <dc:identifier xsi:type="OCLC">63880988</dc:identifier>
+ <dc:language xml:lang="nl">frans</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">fre</dc:language>
+ <dc:language xml:lang="en">French</dc:language>
+ <dc:language xml:lang="fr">français</dc:language>
+ <dc:date>1911</dc:date>
+ <dc:title xml:lang="fr">Precis de droit administratif et de droit public / Maurice Haurion</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:06796110X">Hauriou, Maurice</dc:creator>
+ <mods:edition>7e ed</mods:edition>
+ <dc:publisher>Paris : Sirey</dc:publisher>
+ <dcterms:extent>xii, 1010 p</dcterms:extent>
+ <dcterms:extent>24 cm</dcterms:extent>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:078450772">Bestuursrecht</dc:subject>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:078640563">Publiekrecht</dc:subject>
+ <dcterms:spatial xml:lang="nl">Frankrĳk</dcterms:spatial>
+ <dc:subject xsi:type="dcx:BCL" dcx:recordIdentifier="AC:077608194">86.55</dc:subject>
+</srw_dc:dc><index>
+ <date>1911</date>
+ <enddate>1911</enddate>
+ <PPN>AC:06796110X</PPN>
+ <PPN>AC:078450772</PPN>
+ <PPN>AC:078640563</PPN>
+ <PPN>AC:078509335</PPN>
+ <PPN>AC:077608194</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:125170904</identifier><datestamp>2009-05-26</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:125170904</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=125170904</dcx:recordIdentifier>
+ <dc:identifier xsi:type="OCLC">38700334</dc:identifier>
+ <dc:language xml:lang="nl">frans</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">fre</dc:language>
+ <dc:language xml:lang="en">French</dc:language>
+ <dc:language xml:lang="fr">français</dc:language>
+ <dc:date>1914</dc:date>
+ <dc:title xml:lang="fr">Précis de droit administratif et de droit public à l'usage des étudiants en licence (2e et 3e années) et en doctorat ès sciences politiques / par Maurice Hauriou</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:06796110X">Hauriou, Maurice</dc:creator>
+ <mods:edition>8me édition, augmentée d'une table des notes publiées par l'auteur au Recueil Sirey</mods:edition>
+ <dc:publisher>Paris : L. Larose &amp; L. Tenin</dc:publisher>
+ <dcterms:extent>.. p</dcterms:extent>
+ <dcterms:extent>22 cm</dcterms:extent>
+ <dcx:annotation>Lit.opg. p. 999-1015</dcx:annotation>
+</srw_dc:dc><index>
+ <date>1914</date>
+ <enddate>1914</enddate>
+ <PPN>AC:06796110X</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:099004682</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:099004682</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=099004682</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">duits</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+ <dc:language xml:lang="en">German</dc:language>
+ <dc:language xml:lang="fr">allemand</dc:language>
+ <dc:date>1988</dc:date>
+ <dcx:annotation>Proefschrift Kiel</dcx:annotation>
+ <dc:title xml:lang="de">Die Eroberung Irans durch die Muslime in der islamischen Überlieferung nach Ṭabarīs Ta·rīh ar-rusul wa·l-mulūk / von Azar Ahanchi</dc:title>
+ <dc:creator>Ahanchi, Azar</dc:creator>
+ <dc:publisher>Kiel</dc:publisher>
+ <dcterms:extent>202 p</dcterms:extent>
+ <dcterms:extent>21 cm</dcterms:extent>
+ <dc:subject xsi:type="dcx:person" dcx:recordIdentifier="AC:070568618">Abū Ǧaʿfar Muḥammad b. Ǧarīr al- Ṭabarī (839-923)</dc:subject>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:078518806">Geschiedschrĳving</dc:subject>
+ <dcterms:spatial xml:lang="nl">Iran</dcterms:spatial>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:088144445">Proefschriften (vorm)</dc:subject>
+ <dc:subject xsi:type="dcx:BCL" dcx:recordIdentifier="AC:077599616">15.75</dc:subject>
+ <dcterms:temporal>600-700</dcterms:temporal>
+</srw_dc:dc><index>
+ <date>1988</date>
+ <enddate>1988</enddate>
+ <PPN>AC:070568618</PPN>
+ <PPN>AC:078518806</PPN>
+ <PPN>AC:078549698</PPN>
+ <PPN>AC:088144445</PPN>
+ <PPN>AC:077599616</PPN>
+ <PPN>AC:241923441</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:045966095</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:045966095</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=045966095</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">387091159X</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>[1982]</dc:date>
+ <dc:title xml:lang="nl">Borek Briefmarken-Katalog; Japan</dc:title>
+ <mods:edition>59. Jrg., 1983</mods:edition>
+ <dc:publisher>Braunschweig : Borek</dc:publisher>
+ <dcterms:extent>VIII, 82 blz</dcterms:extent>
+ <dcterms:extent>? cm</dcterms:extent>
+</srw_dc:dc><index>
+ <ISBN>387091159X</ISBN>
+ <date>1982</date>
+ <enddate>1982</enddate>
+ <PPN>AC:078049741</PPN>
+ <PPN>AC:077978897</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:09199165X</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:09199165X</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=09199165X</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">onbepaald</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">und</dc:language>
+ <dc:language xml:lang="en">Undetermined </dc:language>
+ <dc:language xml:lang="fr">indéterminée</dc:language>
+ <dc:date>19XX</dc:date>
+ <dc:title xml:lang=" ">Een 17e eeuws conclaaf in een Geels archief</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:120397390">Gerretzen, Jan Gerard</dc:creator>
+ <dc:publisher>[S.l.]</dc:publisher>
+ <dcterms:extent>?cm</dcterms:extent>
+</srw_dc:dc><index>
+ <date>1900</date>
+ <enddate>1999</enddate>
+ <PPN>AC:120397390</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:158378644</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158378644</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158378644</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1975</dc:date>
+ <dc:title xml:lang="nl">En in een mum is het avond : dagboeknotities : dl. 3 / C. Buddingh'</dc:title>
+ <dc:creator>Buddingh', Cees</dc:creator>
+ <dc:publisher>Amsterdam : De Bezige Bij</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+</srw_dc:dc><index>
+ <date>1975</date>
+ <enddate>1975</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:12789828X</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:12789828X</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://opc4.kb.nl/DB=1/PPN?PPN=12789828X</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9023674510</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1981</dc:date>
+ <dc:title xml:lang="nl">Niets spreekt vanzelf / Cees Buddingh' ; samenstelling: Gerd de Ley</dc:title>
+ <dc:creator>Buddingh', Cornelis</dc:creator>
+ <dc:contributor>Ley, Gerd de (b.1944)</dc:contributor>
+ <dc:publisher>'s-Gravenhage : Nijgh en Van Ditmar</dc:publisher>
+ <dcterms:extent>92 p</dcterms:extent>
+ <dcterms:extent>16 cm</dcterms:extent>
+ <dcx:annotation>A.d. keerz. v.h. titelbl. de ondertitel: Aforismen</dcx:annotation>
+ <dc:subject xsi:type="dcx:KB">0025 i</dc:subject>
+ <dcx:annotation dcx:itemId="016559444">Exemplaar met signatuur: 7176 G 31</dcx:annotation>
+ <dcx:annotation dcx:itemId="097460729">Exemplaar met signatuur: FC 1981/14</dcx:annotation>
+</srw_dc:dc><index>
+ <ISBN>9023674510</ISBN>
+ <date>1981</date>
+ <enddate>1981</enddate>
+ <SelSleutel>gwZCA</SelSleutel>
+ <SelSleutel>gdv</SelSleutel>
+</index></metadata></record><record><header><identifier>GGC:AC:161579930</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:161579930</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=161579930</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9021130963</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>cop. 1986</dc:date>
+ <dc:title xml:lang="nl">Wat geloven zij eigenlijk? : lees- en kijkboek voor jongeren over christendom, hindoeïsme, islam en jodendom / Bert Jalink ; geïll. door Rik Meinema ; onder red. van D. Brokerhof, E.H. van den Broek, J. Slomp ; met medew. van J.L. Blok-Boogert, J. Druk, R. Kranenborg... [et al.]</dc:title>
+ <dc:creator>Jalink, Bert</dc:creator>
+ <dc:contributor>Meinema, Rik</dc:contributor>
+ <dc:contributor>Brokerhof, D.</dc:contributor>
+ <dc:contributor>Broek, E.H. van den</dc:contributor>
+ <dc:contributor>Slomp, Jan</dc:contributor>
+ <dc:contributor dcx:recordIdentifier="AC:069008345">Blok-Boogert, J.L.</dc:contributor>
+ <dc:contributor>Druk, J.</dc:contributor>
+ <dc:contributor>Kranenborg, R.</dc:contributor>
+ <mods:edition>2e dr</mods:edition>
+ <dc:publisher>Delft : Meinema</dc:publisher>
+ <dcterms:extent>96 p</dcterms:extent>
+ <dcterms:extent>29 cm</dcterms:extent>
+</srw_dc:dc><index>
+ <ISBN>9021130963</ISBN>
+ <date>1986</date>
+ <enddate>1986</enddate>
+ <PPN>AC:069008345</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:171594886</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:171594886</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=171594886</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9060026292</dc:identifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9060026748</dc:identifier>
+ <dc:date>1994-1995</dc:date>
+ <dc:title>Pensioen in vogelvlucht / E. Lutjens</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:074602551">Lutjens, E.</dc:creator>
+ <dc:publisher>Deventer : FED</dc:publisher>
+ <dcterms:extent>2 dln</dcterms:extent>
+ <dcterms:extent>.. cm</dcterms:extent>
+</srw_dc:dc><index>
+ <ISBN>9060026292</ISBN>
+ <date>1994</date>
+ <enddate>1995</enddate>
+ <PPN>AC:074602551</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:094818517</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:094818517</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=094818517</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>[1982]</dc:date>
+ <dcx:annotation>Bibliografie: p. 67</dcx:annotation>
+ <dc:title xml:lang="nl">Syllabus alcohol- en drugsproblemen in de 1e lijn : 25 mei, 1, 8, 15, 22 en 29 juni 1982 / [door de] Vrije Universiteit [en de] Universiteit van Amsterdam ; [met bijdr. van A. Knottereus ... et al.]</dc:title>
+ <dcterms:alternative>Alcoholproblemen en drugsproblemen in de eerste lijn</dcterms:alternative>
+ <dc:contributor>Knottereus, A.</dc:contributor>
+ <dc:contributor>Vrije Universiteit (Amsterdam)</dc:contributor>
+ <dc:contributor>Universiteit van Amsterdam</dc:contributor>
+ <dc:publisher>Amsterdam : Bueau Postacademisch Onderwijs Geneeskunde Amsterdam</dc:publisher>
+ <dcterms:extent>67 bl</dcterms:extent>
+ <dcterms:extent>30 cm</dcterms:extent>
+ <dcx:annotation>Zonder titelbl. Omslagtitel</dcx:annotation>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:078428564">Alcoholisme</dc:subject>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:078489652">Drugsverslaving</dc:subject>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:078538955">Hulpverlening</dc:subject>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:078538394">Huisartsgeneeskunde </dc:subject>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:088143767">Leermiddelen (vorm)</dc:subject>
+ <dc:subject xsi:type="dcx:BCL" dcx:recordIdentifier="AC:07760024X">79.22</dc:subject>
+</srw_dc:dc><index>
+ <date>1982</date>
+ <enddate>1982</enddate>
+ <PPN>AC:078428564</PPN>
+ <PPN>AC:078489652</PPN>
+ <PPN>AC:078538955</PPN>
+ <PPN>AC:078538394</PPN>
+ <PPN>AC:088143767</PPN>
+ <PPN>AC:07760024X</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:123688647</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:123688647</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=123688647</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9040003742</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>cop. 1994</dc:date>
+ <dcx:annotation>Met lit. opg</dcx:annotation>
+ <dcterms:isPartOf dcx:recordIdentifier="AC:123479096">Weerzien met Indië</dcterms:isPartOf>
+ <dc:title xml:lang="nl">Weerzien met Indië. 11:  Ambacht en industrie / [tekst: Peter Klein]</dc:title>
+ <dc:contributor dcx:recordIdentifier="AC:073932388">Bossenbroek, Martin</dc:contributor>
+ <dc:contributor dcx:recordIdentifier="AC:068281900">Klein, Peter</dc:contributor>
+ <dc:publisher>Zwolle : Waanders</dc:publisher>
+ <dcterms:extent>p. 251-271</dcterms:extent>
+ <dcterms:extent>32 cm</dcterms:extent>
+</srw_dc:dc><index>
+ <ISBN>9040003742</ISBN>
+ <date>1994</date>
+ <enddate>1994</enddate>
+ <PPN>AC:123479096</PPN>
+ <PPN>AC:073932388</PPN>
+ <PPN>AC:068281900</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:125126573</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:125126573</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=125126573</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9040003793</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>cop. 1994</dc:date>
+ <dcx:annotation>Met lit. opg</dcx:annotation>
+ <dcterms:isPartOf dcx:recordIdentifier="AC:123479096">Weerzien met Indië</dcterms:isPartOf>
+ <dc:title xml:lang="nl">Weerzien met Indië. 16:  Wetenschappelĳke exploraties / [tekst: Martin Bossenbroek]</dc:title>
+ <dc:contributor dcx:recordIdentifier="AC:073932388">Bossenbroek, Martin</dc:contributor>
+ <dc:publisher>Zwolle : Waanders</dc:publisher>
+ <dcterms:extent>p. 371-391</dcterms:extent>
+ <dcterms:extent>32 cm</dcterms:extent>
+</srw_dc:dc><index>
+ <ISBN>9040003793</ISBN>
+ <date>1994</date>
+ <enddate>1994</enddate>
+ <PPN>AC:123479096</PPN>
+ <PPN>AC:073932388</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:127721231</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:127721231</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=127721231</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9040003858</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>cop. 1995</dc:date>
+ <dcx:annotation>Met lit. opg</dcx:annotation>
+ <dcterms:isPartOf dcx:recordIdentifier="AC:123479096">Weerzien met Indië</dcterms:isPartOf>
+ <dc:title xml:lang="nl">Weerzien met Indië. 22:  Beeldende kunst / [tekst: Francine Brinkgreve]</dc:title>
+ <dc:contributor dcx:recordIdentifier="AC:073932388">Bossenbroek, Martin</dc:contributor>
+ <dc:contributor dcx:recordIdentifier="AC:125125461">Brinkgreve, Francine</dc:contributor>
+ <dc:publisher>Zwolle : Waanders</dc:publisher>
+ <dcterms:extent>p. 515-535</dcterms:extent>
+ <dcterms:extent>32 cm</dcterms:extent>
+</srw_dc:dc><index>
+ <ISBN>9040003858</ISBN>
+ <date>1995</date>
+ <enddate>1995</enddate>
+ <PPN>AC:123479096</PPN>
+ <PPN>AC:073932388</PPN>
+ <PPN>AC:125125461</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:137032919</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:137032919</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=137032919</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9040003912</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>cop. 1995</dc:date>
+ <dcx:annotation>Met lit. opg</dcx:annotation>
+ <dcterms:isPartOf dcx:recordIdentifier="AC:123479096">Weerzien met Indië</dcterms:isPartOf>
+ <dc:title xml:lang="nl">Weerzien met Indië. 28:  Rechtspraak / [tekst: Peter Klein ; tekst bĳschriften Wim van den Doel]</dc:title>
+ <dc:contributor dcx:recordIdentifier="AC:073932388">Bossenbroek, Martin</dc:contributor>
+ <dc:contributor dcx:recordIdentifier="AC:068281900">Klein, Peter</dc:contributor>
+ <dc:contributor dcx:recordIdentifier="AC:080279627">Doel, Wim van den</dc:contributor>
+ <dc:publisher>Zwolle : Waanders</dc:publisher>
+ <dcterms:extent>p. 659-679</dcterms:extent>
+ <dcterms:extent>32 cm</dcterms:extent>
+</srw_dc:dc><index>
+ <ISBN>9040003912</ISBN>
+ <date>1995</date>
+ <enddate>1995</enddate>
+ <PPN>AC:123479096</PPN>
+ <PPN>AC:073932388</PPN>
+ <PPN>AC:068281900</PPN>
+ <PPN>AC:080279627</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:139104534</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:139104534</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=139104534</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9040003971</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>cop. 1995</dc:date>
+ <dcx:annotation>Met lit. opg</dcx:annotation>
+ <dcterms:isPartOf dcx:recordIdentifier="AC:123479096">Weerzien met Indië</dcterms:isPartOf>
+ <dc:title xml:lang="nl">Weerzien met Indië. 34:  Zending en missie / [tekst: Martin Bossenbroek]</dc:title>
+ <dc:contributor dcx:recordIdentifier="AC:073932388">Bossenbroek, Martin</dc:contributor>
+ <dc:publisher>Zwolle : Waanders</dc:publisher>
+ <dcterms:extent>P. 807-827</dcterms:extent>
+ <dcterms:extent>32 cm</dcterms:extent>
+</srw_dc:dc><index>
+ <ISBN>9040003971</ISBN>
+ <date>1995</date>
+ <enddate>1995</enddate>
+ <PPN>AC:123479096</PPN>
+ <PPN>AC:073932388</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:841880530</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">tijdschrift/serie</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:841880530</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://opc4.kb.nl/DB=1/PPN?PPN=841880530</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISSN">03765067</dc:identifier>
+ <dc:language xml:lang="nl">engels</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+ <dc:language xml:lang="en">English</dc:language>
+ <dc:language xml:lang="fr">anglais</dc:language>
+ <dc:date>1976-2000</dc:date>
+ <dcx:annotation>Verschĳnt 1x per 3 maanden; vanaf 1980 1x per jaar</dcx:annotation>
+ <dc:title xml:lang="en">Trends in biochemical sciences / publ. by the International Union of Biochemistry</dc:title>
+ <dcterms:alternative>TiBS</dcterms:alternative>
+ <dc:contributor>International Union of Biochemistry</dc:contributor>
+ <dc:contributor>International Union of Biochemistry and Molecular Biology</dc:contributor>
+ <dcterms:extent>Nummering: Vol. 1 (1976)–vol. 24 (1999)</dcterms:extent>
+ <mods:edition>[Reference ed.]</mods:edition>
+ <dc:publisher>Amsterdam : Elsevier Science Publishers</dc:publisher>
+ <dc:publisher>Oxford</dc:publisher>
+ <dcterms:extent>26 cm</dcterms:extent>
+ <dcx:annotation>Kop van omslag: TiBS</dcx:annotation>
+ <dcx:annotation>Corp. later o.d.n.: International Union of Biochemistry and Molecular Biology</dcx:annotation>
+ <dcx:annotation>Later uitg. door: Cambridge : Elsevier Trends Journals</dcx:annotation>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:078453712">Biochemie</dc:subject>
+ <dc:subject xsi:type="dcx:BCL" dcx:recordIdentifier="AC:077596110">35.70</dc:subject>
+</srw_dc:dc><index>
+ <date>1976</date>
+ <enddate>2000</enddate>
+ <PPN>AC:078453712</PPN>
+ <PPN>AC:077596110</PPN>
+ <SelSleutel>ydtO</SelSleutel>
+</index></metadata></record><record><header><identifier>GGC:AC:098876244</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:098876244</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=098876244</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>19XX</dc:date>
+ <dc:title xml:lang="nl">De nieuwe aarde / Jouke Brouwer</dc:title>
+ <dc:creator>Brouwer, Jouke</dc:creator>
+ <dc:publisher>Kampen : Kok</dc:publisher>
+ <dcterms:extent>203 p</dcterms:extent>
+ <dcterms:extent>22 cm</dcterms:extent>
+</srw_dc:dc><index>
+ <date>1900</date>
+ <enddate>1999</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158816986</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158816986</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158816986</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9001944272</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1980</dc:date>
+ <dc:title xml:lang="nl">Alleen op de wereld : 1 / Hector Malot ; naverteld door Heleen Kernkamp-Biegel</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:069529892">Kernkamp-Biegel, Heleen</dc:creator>
+ <dc:contributor dcx:recordIdentifier="AC:069459452">Malot, Hector</dc:contributor>
+ <dc:publisher>Groningen : Wolters-Noordhoff</dc:publisher>
+ <dcterms:extent>144 p</dcterms:extent>
+ <dcterms:extent>22 cm</dcterms:extent>
+ <dcterms:isPartOf dcx:recordIdentifier="AC:82256159X">De wenteltrap</dcterms:isPartOf>
+ <dc:subject xsi:type="dcx:Brinkman" xml:lang="nl" dcx:recordIdentifier="AC:075629097">leermiddelen ; lezen</dc:subject>
+ <dc:subject xsi:type="dcx:Brinkman" xml:lang="nl" dcx:recordIdentifier="AC:075610744">jeugdboeken ; verhalen</dc:subject>
+ <dcterms:abstract>Een jongen trekt met een oude muzikant en zĳn dieren door Frankrĳk. Ze beleven veel trieste, maar ook plezierige momenten. Na veel omwegen vindt hĳ zĳn moeder en broertje weer terug. Verhaal in makkelĳke woorden en korte zinnen. Vanaf ca. 11 jaar.</dcterms:abstract>
+</srw_dc:dc><index>
+ <ISBN>9001944272</ISBN>
+ <date>1980</date>
+ <enddate>1980</enddate>
+ <PPN>AC:069529892</PPN>
+ <PPN>AC:069459452</PPN>
+ <PPN>AC:82256159X</PPN>
+ <PPN>AC:075629097</PPN>
+ <PPN>AC:075610744</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:810050285</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:810050285</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://opc4.kb.nl/DB=1/PPN?PPN=810050285</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1969</dc:date>
+ <dc:title xml:lang="nl">De voeding bĳ sportbeoefening : richtlĳnen voor kaderinstructie / J.F. de Wĳn</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:070979650">Wĳn, J.F. de</dc:creator>
+ <dc:contributor>Nederlandse Sport Federatie. Afdeling Sportgeneeskunde</dc:contributor>
+ <mods:edition>2e herz. dr</mods:edition>
+ <dc:publisher>'s-Gravenhage : N.S.F.</dc:publisher>
+ <dcterms:extent>32 p</dcterms:extent>
+ <dcterms:extent>24 cm</dcterms:extent>
+ <dcterms:isPartOf dcx:recordIdentifier="AC:821932071">N.S.F.-uitgave ; nr. 20</dcterms:isPartOf>
+ <dcx:annotation>1e uitg.: 1965</dcx:annotation>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:078672481">Sport</dc:subject>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:078947111">Voeding</dc:subject>
+ <dc:subject xsi:type="dcx:BCL" dcx:recordIdentifier="AC:077596692">44.70</dc:subject>
+ <dc:subject xsi:type="dcx:KB">1508 mbdz</dc:subject>
+ <dcx:annotation dcx:itemId="325232490">Exemplaar met signatuur: Broch 27400</dcx:annotation>
+</srw_dc:dc><index>
+ <date>1969</date>
+ <enddate>1969</enddate>
+ <PPN>AC:070979650</PPN>
+ <PPN>AC:821932071</PPN>
+ <PPN>AC:078672481</PPN>
+ <PPN>AC:078947111</PPN>
+ <PPN>AC:077596692</PPN>
+ <SelSleutel>gw.8</SelSleutel>
+</index></metadata></record><record><header><identifier>GGC:AC:158864735</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158864735</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158864735</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1974</dc:date>
+ <dc:title xml:lang="nl">Joe Silent en de koning der bergen / R. Hunter ; vert. uit het Amerikaans door F. van der Pas</dc:title>
+ <dc:creator>Hunter, Ray</dc:creator>
+ <mods:edition>Herdr</mods:edition>
+ <dc:publisher>Ridderkerk : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+</srw_dc:dc><index>
+ <date>1974</date>
+ <enddate>1974</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158873459</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158873459</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158873459</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1975</dc:date>
+ <dc:title xml:lang="nl">Joe Silents dodenrit / R. Hunter ; vert. uit het Amerikaans door F. van de Pas</dc:title>
+ <dc:creator>Hunter, Ray</dc:creator>
+ <mods:edition>Herdr</mods:edition>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+</srw_dc:dc><index>
+ <date>1975</date>
+ <enddate>1975</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158376390</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158376390</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158376390</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1974</dc:date>
+ <dc:title xml:lang="nl">De vlucht van Joe Silent / R. Hunter ; vert. uit het Amerikaans door F. v.d. Pas</dc:title>
+ <dc:creator>Hunter, Ray</dc:creator>
+ <mods:edition>Herdr</mods:edition>
+ <dc:publisher>Ridderkerk : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+</srw_dc:dc><index>
+ <date>1974</date>
+ <enddate>1974</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158893875</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158893875</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158893875</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1973</dc:date>
+ <dc:title xml:lang="nl">De wet van Joe Silent / R. Hunter ; vert. uit het Engels door F. v.d. Pas</dc:title>
+ <dc:creator>Hunter, Ray</dc:creator>
+ <mods:edition>Herdr</mods:edition>
+ <dc:publisher>Ridderkerk : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Joe Silent</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1973</date>
+ <enddate>1973</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158198875</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158198875</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158198875</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1973</dc:date>
+ <dc:title xml:lang="nl">Joe Silent en de scherpschutter / R. Hunter ; vert. uit het Amerikaans door F. van der Pas</dc:title>
+ <dc:creator>Hunter, Ray</dc:creator>
+ <mods:edition>Herdr</mods:edition>
+ <dc:publisher>Ridderkerk : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Joe Silent</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1973</date>
+ <enddate>1973</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158375564</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158375564</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158375564</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1973</dc:date>
+ <dc:title xml:lang="nl">Geen strop voor Joe Silent / R. Hunter ; vert. uit het Amerikaans door F. van der Pas</dc:title>
+ <dc:creator>Hunter, Ray</dc:creator>
+ <mods:edition>Herdr</mods:edition>
+ <dc:publisher>Ridderkerk : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+</srw_dc:dc><index>
+ <date>1973</date>
+ <enddate>1973</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158187709</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158187709</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158187709</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9003229759</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>cop. 1995</dc:date>
+ <dc:title xml:lang="nl">Op niveau : 2 ivbo : basisboek : Methode Nederlands / R.J. van Veen ; met medew. van B. Jager, J.L. van der Velde en R.A.J. Kraaijeveld</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:121659054">Veen, R.J. van</dc:creator>
+ <dc:contributor dcx:recordIdentifier="AC:072906790">Jager, B.</dc:contributor>
+ <dc:contributor>Velde, J.L. van der</dc:contributor>
+ <dc:contributor>Kraaijeveld, R.A.J.</dc:contributor>
+ <mods:edition>1e dr., 1e opl.</mods:edition>
+ <dc:publisher>Zutphen : Thieme</dc:publisher>
+ <dcterms:extent>209 p</dcterms:extent>
+ <dcterms:extent>..cm</dcterms:extent>
+</srw_dc:dc><index>
+ <ISBN>9003229759</ISBN>
+ <date>1995</date>
+ <enddate>1995</enddate>
+ <PPN>AC:121659054</PPN>
+ <PPN>AC:072906790</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:165872276</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:165872276</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=165872276</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9003229775</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>cop. 1995</dc:date>
+ <dc:title xml:lang="nl">Op niveau : 2 ivbo : docentenboek : methode Nederlands / R.J. van Veen ; met medew. van B. Jager, J.L. van der Velde, R.A.J. Kraaijeveld</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:121659054">Veen, R.J. van</dc:creator>
+ <dc:contributor>Jager, B.</dc:contributor>
+ <dc:contributor>Velde, J.L. van der</dc:contributor>
+ <dc:contributor>Kraaijeveld, R.A.J.</dc:contributor>
+ <mods:edition>1e dr.</mods:edition>
+ <dc:publisher>Zutphen : Thieme</dc:publisher>
+ <dcterms:extent>129 p</dcterms:extent>
+ <dcterms:extent>..cm</dcterms:extent>
+</srw_dc:dc><index>
+ <ISBN>9003229775</ISBN>
+ <date>1995</date>
+ <enddate>1995</enddate>
+ <PPN>AC:121659054</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:161743358</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:161743358</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=161743358</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9003229716</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>cop. 1994</dc:date>
+ <dc:title xml:lang="nl">Op niveau : 1 ivbo : herhalings- en verdiepingsboek : methode Nederlands / R.J. van Veen ; met medew. van B. Jager, J.L. van der Velde en R.A.J. Kraaijeveld</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:121659054">Veen, R.J. van</dc:creator>
+ <dc:contributor>Jager, B.</dc:contributor>
+ <dc:contributor>Velde, J.L. van der</dc:contributor>
+ <dc:contributor>Kraaijeveld, R.A.J.</dc:contributor>
+ <mods:edition>1e dr.</mods:edition>
+ <dc:publisher>Zutphen : Thieme</dc:publisher>
+ <dcterms:extent>80 p</dcterms:extent>
+ <dcterms:extent>..cm</dcterms:extent>
+</srw_dc:dc><index>
+ <ISBN>9003229716</ISBN>
+ <date>1994</date>
+ <enddate>1994</enddate>
+ <PPN>AC:121659054</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:161746683</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:161746683</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=161746683</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9003229724</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>cop. 1994</dc:date>
+ <dc:title xml:lang="nl">Op niveau : 1 ivbo : docentenboek : methode Nederlands / R.J. van Veen ; m.m.v. B. Jager, J.L. van der Velde en R.A.J. Kraaijeveld</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:121659054">Veen, R.J. van</dc:creator>
+ <dc:contributor>Jager, B.</dc:contributor>
+ <dc:contributor>Velde, J.L. van der</dc:contributor>
+ <dc:contributor>Kraaijeveld, R.A.J.</dc:contributor>
+ <mods:edition>1e dr.</mods:edition>
+ <dc:publisher>Zutphen : Thieme</dc:publisher>
+ <dcterms:extent>136 p</dcterms:extent>
+ <dcterms:extent>..cm</dcterms:extent>
+</srw_dc:dc><index>
+ <ISBN>9003229724</ISBN>
+ <date>1994</date>
+ <enddate>1994</enddate>
+ <PPN>AC:121659054</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:158164016</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158164016</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158164016</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9003229708</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>cop. 1994</dc:date>
+ <dc:title xml:lang="nl">Op niveau : 1 ivbo : basisboek : methode Nederlands / R.J. van Veen ; met medew. van B. Jager, J.L. van der Velde en R.A.J. Kraaijeveld</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:121659054">Veen, R.J. van</dc:creator>
+ <dc:contributor dcx:recordIdentifier="AC:072906790">Jager, B.</dc:contributor>
+ <dc:contributor>Velde, J.L. van der</dc:contributor>
+ <dc:contributor>Kraaijeveld, R.A.J.</dc:contributor>
+ <mods:edition>1e dr.</mods:edition>
+ <dc:publisher>Zutphen : Thieme</dc:publisher>
+ <dcterms:extent>183 p</dcterms:extent>
+ <dcterms:extent>..cm</dcterms:extent>
+</srw_dc:dc><index>
+ <ISBN>9003229708</ISBN>
+ <date>1994</date>
+ <enddate>1994</enddate>
+ <PPN>AC:121659054</PPN>
+ <PPN>AC:072906790</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:091824028</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:091824028</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=091824028</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">engels</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+ <dc:language xml:lang="en">English</dc:language>
+ <dc:language xml:lang="fr">anglais</dc:language>
+ <dc:date>1955</dc:date>
+ <dc:title xml:lang="en">The last days of Hitler / H.R. Trevor-Roper; with forew. by lord Tedder</dc:title>
+ <dc:creator>Trevor-Roper, Hugh Redwald</dc:creator>
+ <mods:edition>New ed., with new pref. Repr</mods:edition>
+ <dc:publisher>London : Pan Books</dc:publisher>
+ <dcterms:extent>266 p</dcterms:extent>
+ <dcterms:extent>18 cm</dcterms:extent>
+ <dcx:annotation>@PAN-books. GP ; 12</dcx:annotation>
+ <dc:subject xsi:type="dcx:person" dcx:recordIdentifier="AC:068566093">Adolf Hitler (1889-1945)</dc:subject>
+ <dcterms:spatial xml:lang="nl">Duitsland</dcterms:spatial>
+ <dcterms:temporal>1945-1950</dcterms:temporal>
+</srw_dc:dc><index>
+ <date>1955</date>
+ <enddate>1955</enddate>
+ <PPN>AC:068566093</PPN>
+ <PPN>AC:07849043X</PPN>
+ <PPN>AC:241924952</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:843309911</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:843309911</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://opc4.kb.nl/DB=1/PPN?PPN=843309911</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">3789009792</dc:identifier>
+ <dc:language xml:lang="nl">duits</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+ <dc:language xml:lang="en">German</dc:language>
+ <dc:language xml:lang="fr">allemand</dc:language>
+ <dc:date>1984</dc:date>
+ <dcx:annotation>Lit.opg.: p. 835-846. - Index</dcx:annotation>
+ <dcx:annotation>Literaturverz. S. 835 - 846</dcx:annotation>
+ <dc:title xml:lang="de">Zivilrecht im Systemvergleich : das Zivilrecht der Deutschen Demokratischen Republik und der Bundesrepublik Deutschland / Klaus Westen ; Joachim Schleider</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:067897525">Westen, Klaus</dc:creator>
+ <dc:creator dcx:recordIdentifier="AC:070707391">Schleider, Joachim</dc:creator>
+ <dc:contributor>Freie Universität Berlin. Osteuropa-Institut</dc:contributor>
+ <dc:publisher>Baden-Baden : Nomos-Verlagsgesellschaft</dc:publisher>
+ <dcterms:extent>864 p</dcterms:extent>
+ <dcterms:extent>23 cm</dcterms:extent>
+ <dcterms:isPartOf xsi:type="dcterms:ISSN">0343-835X</dcterms:isPartOf>
+ <dcterms:isPartOf dcx:recordIdentifier="AC:841555591">Rechtswissenschaftliche Veröffentlichungen / Osteuropa-Institut an der Freien Universität Berlin, ISSN 0343-835X ; Bd. 13</dcterms:isPartOf>
+ <dc:subject xsi:type="dcx:KB">0146 dac</dc:subject>
+ <dcx:annotation dcx:itemId="005210682">Exemplaar met signatuur: 7526 E 11</dcx:annotation>
+</srw_dc:dc><index>
+ <ISBN>3789009792</ISBN>
+ <date>1984</date>
+ <enddate>1984</enddate>
+ <PPN>AC:067897525</PPN>
+ <PPN>AC:070707391</PPN>
+ <PPN>AC:841555591</PPN>
+ <PPN>AC:1070310417</PPN>
+ <SelSleutel>gwBFL</SelSleutel>
+</index></metadata></record><record><header><identifier>GGC:AC:142357006</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">AV-materiaal</dc:type>
+ <dc:type xsi:type="DCMIType">MovingImage</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:142357006</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=142357006</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">fries</dc:language>
+ <dc:date>19XX</dc:date>
+ <dc:title>It lânskip feroaret [Beeld &amp;#38; Geluid] / pres. Karin de Jong, regy Cees Bijlsma</dc:title>
+ <dc:contributor dcx:recordIdentifier="AC:195467051">Jong, Karin de</dc:contributor>
+ <dc:contributor>Bijlsma, Cees</dc:contributor>
+ <dc:contributor dcx:recordIdentifier="AC:073424773">Bangma, J.</dc:contributor>
+ <dc:publisher>[S.l.] : OMROP FRYSLAN</dc:publisher>
+ <dcterms:extent>5 dl</dcterms:extent>
+ <dcx:annotation>1. De Terpen 2. It Fean 3. Drachten 4. De Kunder 5. De Greide</dcx:annotation>
+ <dcterms:abstract>Vijf afleveringen over vijf gebieden in Friesland vroeger en nu</dcterms:abstract>
+</srw_dc:dc><index>
+ <date>1900</date>
+ <enddate>1999</enddate>
+ <PPN>AC:195467051</PPN>
+ <PPN>AC:073424773</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:19669373X</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">artikel</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:19669373X</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=19669373X</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1994</dc:date>
+ <dc:title xml:lang="nl">Discussie: groeiende inkomensongelijkheid : Jan Pen, J.W. de Beus en Wout Ultee in debat met Nico Wilterdink / Jan Pen</dc:title>
+ <dc:creator>Pen, Jan</dc:creator>
+ <dc:creator>Beus, J. W. de</dc:creator>
+ <dc:creator>Ultee, Wout</dc:creator>
+ <dc:contributor dcx:recordIdentifier="AC:07018691X">Wilterdink, Nico</dc:contributor>
+ <dc:publisher>[s.l.] : [s.n.]</dc:publisher>
+ <dcterms:extent>.. cm</dcterms:extent>
+ <dc:description>In: Amsterdams sociologisch tijdschrift</dc:description>
+</srw_dc:dc><index>
+ <date>1994</date>
+ <enddate>1994</enddate>
+ <PPN>AC:07018691X</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:196687942</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">artikel</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:196687942</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=196687942</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1993</dc:date>
+ <dc:title xml:lang="nl">Ongelijkheid en interdependentie / Nico Wilterdink</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:07018691X">Wilterdink, Nico</dc:creator>
+ <dc:publisher>[s.l.] : [s.n.]</dc:publisher>
+ <dcterms:extent>.. cm</dcterms:extent>
+ <dc:description>In: Amsterdams sociologisch tijdschrift</dc:description>
+</srw_dc:dc><index>
+ <date>1993</date>
+ <enddate>1993</enddate>
+ <PPN>AC:07018691X</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:196262003</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">artikel</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:196262003</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=196262003</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1991</dc:date>
+ <dc:title xml:lang="nl">Beelden van nationaal karakter : Fransen, Engelsen en Duitsers / Nico Wilterdink</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:07018691X">Wilterdink, Nico</dc:creator>
+ <dc:publisher>[s.l.] : [s.n.]</dc:publisher>
+ <dcterms:extent>.. cm</dcterms:extent>
+ <dc:description>In: Amsterdams Sociologisch Tijdschrift</dc:description>
+</srw_dc:dc><index>
+ <date>1991</date>
+ <enddate>1991</enddate>
+ <PPN>AC:07018691X</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:196019656</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">artikel</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:196019656</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=196019656</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1989</dc:date>
+ <dc:title xml:lang="nl">Het maatschappelijke als tekst? : Een discussie tussen Nico Wilterdink en Gerhard Nijhof / Nico Wilterdink</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:07018691X">Wilterdink, Nico</dc:creator>
+ <dc:creator>Nijhof, Gerhard</dc:creator>
+ <dc:publisher>[s.l.] : [s.n.]</dc:publisher>
+ <dcterms:extent>.. cm</dcterms:extent>
+ <dc:description>In: Amsterdams sociologisch tijdschrift</dc:description>
+</srw_dc:dc><index>
+ <date>1989</date>
+ <enddate>1989</enddate>
+ <PPN>AC:07018691X</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:183042883</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">tijdschrift/serie</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:183042883</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=183042883</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1999-...</dc:date>
+ <dcx:annotation>Verschĳnt 11x per jaar</dcx:annotation>
+ <dc:title xml:lang="nl">Werk &amp;#38; inkomen</dc:title>
+ <dcterms:extent>Nummering: Nr. 1 (aug. 1999)–...</dcterms:extent>
+ <dc:publisher>[Alphen aan den Rĳn] : Samsom/Kluwer</dc:publisher>
+ <dcterms:extent>24 cm</dcterms:extent>
+ <dc:description>Suppl. op: Sociale voorzieningen ; deel 4, SWI</dc:description>
+ <dc:description>Ook o.d.t.: Nieuwsbrief werk &amp;#38; inkomen</dc:description>
+</srw_dc:dc><index>
+ <date>1999</date>
+ <enddate>9999</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158379381</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158379381</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158379381</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1978</dc:date>
+ <dc:title xml:lang="nl">Treurige Sam / Conrad Kobbe ; vert. uit het Duits door D. van de Bospoort</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <mods:edition>2e dr</mods:edition>
+ <dc:publisher>Amsterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Conny Coll ; no. 25</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1978</date>
+ <enddate>1978</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158132394</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158132394</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158132394</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1978</dc:date>
+ <dc:title xml:lang="nl">Blondy / Conrad Kobbe ; vert. uit het Duits door G. van de Bospoort</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <mods:edition>2e dr</mods:edition>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+</srw_dc:dc><index>
+ <date>1978</date>
+ <enddate>1978</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158379292</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158379292</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158379292</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1978</dc:date>
+ <dc:title xml:lang="nl">Baby / Conrad Kobbe ; vert. uit het Duits door F. van de Pas</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <mods:edition>2e dr</mods:edition>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Conny Coll reeks ; no. 26</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1978</date>
+ <enddate>1978</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158377524</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158377524</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158377524</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1978</dc:date>
+ <dc:title xml:lang="nl">Mens en roofdier / Conrad Kobbe ; vert. uit het Duits door D. van de Bospoort</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <mods:edition>2e dr</mods:edition>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Conny Coll stories ; no.21</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1978</date>
+ <enddate>1978</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158195256</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158195256</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158195256</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1978</dc:date>
+ <dc:title xml:lang="nl">De sterke man / Conrad Kobbe ; vert. uit het Duits</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <mods:edition>2e dr</mods:edition>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Conny Coll ; no.20</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1978</date>
+ <enddate>1978</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158383125</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158383125</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158383125</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1977</dc:date>
+ <dc:title xml:lang="nl">Oude Jim / Conrad Kobbe ; vert. uit het Duits</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <mods:edition>2e dr</mods:edition>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Conny Coll</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1977</date>
+ <enddate>1977</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158377052</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158377052</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158377052</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1977</dc:date>
+ <dc:title xml:lang="nl">Het grijze monster / Conrad Kobbe ; vert. uit het Duits door D. van de Bospoort</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Conny Coll ; no. 16</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1977</date>
+ <enddate>1977</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158377184</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158377184</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158377184</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1977</dc:date>
+ <dc:title xml:lang="nl">Gentleman Cilimm / Conrad Kobbe ; vert. uit het Duits door G. van de Bospoort</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <mods:edition>2e dr</mods:edition>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Conny Coll ; no. 17</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1977</date>
+ <enddate>1977</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:036540811</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:036540811</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=036540811</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>[1976]</dc:date>
+ <dc:title xml:lang="nl">En toenschoot Conny / Conrad Kobbe ; vert. [uit het Duits] door F. van de Pas</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:069223947">Kobbe, Conrad</dc:creator>
+ <dc:publisher>Ridderkerk : Ridderhof</dc:publisher>
+ <dcterms:extent>166 p</dcterms:extent>
+ <dcterms:extent>19 cm</dcterms:extent>
+ <dcterms:isPartOf>Conny Coll stories ; 74</dcterms:isPartOf>
+ <dc:description>Vert. van: Dann schoss Connyiff</dc:description>
+</srw_dc:dc><index>
+ <date>1976</date>
+ <enddate>1976</enddate>
+ <PPN>AC:069223947</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:158380363</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158380363</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158380363</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1976</dc:date>
+ <dc:title xml:lang="nl">Black gun / Conrad Kobbe ; vert. uit het Duits door F. van de Pas</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <mods:edition>Herdr</mods:edition>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Conny Coll</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1976</date>
+ <enddate>1976</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158377702</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158377702</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158377702</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1976</dc:date>
+ <dc:title xml:lang="nl">Zij die van wapens leven / Conrad Kobbe ; vert. uit het Duits door F. van de Pas</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <mods:edition>Herdr</mods:edition>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Conny Coll ; no. 79</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1976</date>
+ <enddate>1976</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158376919</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158376919</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158376919</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1976</dc:date>
+ <dc:title xml:lang="nl">De nieuwe grensruiter / Conrad Kobbe ; vert. uit het Duits door F. v.d. Pas</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <mods:edition>Herdr</mods:edition>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Conny Coll ; no. 71</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1976</date>
+ <enddate>1976</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158367901</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158367901</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158367901</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1975</dc:date>
+ <dc:title xml:lang="nl">Colorado Jim / Conrad Kobbe ; vert. uit het Duits door F. v.d. Pas</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <mods:edition>Herdr</mods:edition>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+</srw_dc:dc><index>
+ <date>1975</date>
+ <enddate>1975</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158367790</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158367790</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158367790</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1975</dc:date>
+ <dc:title xml:lang="nl">Zonder hem geen colts / Conrad Kobbe ; vert. uit het Duits</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:069223947">Kobbe, Conrad</dc:creator>
+ <mods:edition>Herdr</mods:edition>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+</srw_dc:dc><index>
+ <date>1975</date>
+ <enddate>1975</enddate>
+ <PPN>AC:069223947</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:158192834</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158192834</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158192834</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1975</dc:date>
+ <dc:title xml:lang="nl">Schotse Leslie / Conrad Kobbe ; vert. uit het Duits</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <mods:edition>Herdr</mods:edition>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Conny Coll stories ; no. 63</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1975</date>
+ <enddate>1975</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158376528</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158376528</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158376528</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1975</dc:date>
+ <dc:title xml:lang="nl">Een kogel voor 5 cent / Conrad Kobbe ; vert. uit het Duits door F. v.d. Pas</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <mods:edition>Herdr</mods:edition>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Conny Coll reeks ; no. 72</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1975</date>
+ <enddate>1975</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158379373</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158379373</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158379373</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1974</dc:date>
+ <dc:title xml:lang="nl">De keizer van Amerika / C. Kobbe ; vert. uit het Duits door J. v.d. Pas</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+</srw_dc:dc><index>
+ <date>1974</date>
+ <enddate>1974</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158193016</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158193016</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158193016</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1975</dc:date>
+ <dc:title xml:lang="nl">Trefpunt Utah / Conrad Kobbe ; vert. uit het Duits</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <mods:edition>Herdr</mods:edition>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+</srw_dc:dc><index>
+ <date>1975</date>
+ <enddate>1975</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158372433</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158372433</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158372433</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1974</dc:date>
+ <dc:title xml:lang="nl">Wraak voor Ed Spring : een Conny Coll story / Conrad Kobbe ; vert. uit het Duits door G. van de Bospoort</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <dc:publisher>Ridderkerk : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+</srw_dc:dc><index>
+ <date>1974</date>
+ <enddate>1974</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158199472</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158199472</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158199472</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1974</dc:date>
+ <dc:title xml:lang="nl">Twee brandende ogen / C. Kobbe ; vert. uit het Duits door G. van den Bospoort</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Conny Coll stories ; no. 60</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1974</date>
+ <enddate>1974</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158367723</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158367723</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158367723</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1974</dc:date>
+ <dc:title xml:lang="nl">Old Hickory / Conrad Kobbe ; vert. uit het Duits door F. v.d. Pas</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <mods:edition>Herdr</mods:edition>
+ <dc:publisher>Rotterdam : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Conny Coll stories ; no. 56</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1974</date>
+ <enddate>1974</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158379055</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158379055</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158379055</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1973</dc:date>
+ <dc:title xml:lang="nl">De ruige vechtjas / C. Kobbe ; vert. uit het Duits door G. van de Bospoort</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <dc:publisher>Ridderkerk : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Conny Coll stories</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1973</date>
+ <enddate>1973</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:158367553</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158367553</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158367553</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1973</dc:date>
+ <dc:title xml:lang="nl">Dwars door de woestijn / Conrad Kobbe ; vert. uit het Duits</dc:title>
+ <dc:creator>Kobbe, Conrad</dc:creator>
+ <dc:publisher>Ridderkerk : Ridderhof</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Conny Coll stories ; no. 48</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1973</date>
+ <enddate>1973</enddate>
+</index></metadata></record><record><header><identifier>GGC:AC:094227209</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:094227209</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://opc4.kb.nl/DB=1/PPN?PPN=094227209</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9069420740</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1987</dc:date>
+ <dc:title xml:lang="nl">Koeweit : [geschiedenis, politiek, economie, cultuur, betrekkingen met Nederland, literatuur] : een landenmap / geschreven door Michiel Beker, Jack Paluch en Arend Jan Termeulen</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:073098361">Beker, Michiel</dc:creator>
+ <dc:creator>Paluch, Jack</dc:creator>
+ <dc:creator>Termeulen, Arend Jan</dc:creator>
+ <dc:publisher>[S.l.]</dc:publisher>
+ <dc:publisher>'s-Gravenhage : Novib</dc:publisher>
+ <dcterms:extent>32 p</dcterms:extent>
+ <dcterms:extent>30 cm</dcterms:extent>
+ <dcterms:isPartOf>Novib Landenmappen</dcterms:isPartOf>
+ <dcx:annotation>Zonder titelbl. Koptitel</dcx:annotation>
+ <dc:contributor dcx:recordIdentifier="AC:075307456">NOVIB, Nederlandse Organisatie voor Internationale Ontwikkelingssamenwerking</dc:contributor>
+ <dc:contributor dcx:recordIdentifier="AC:075367955">Stichting Middle East Research Associates</dc:contributor>
+ <dcx:annotation dcx:itemId="098909053">Exemplaar met signatuur: 5013384</dcx:annotation>
+</srw_dc:dc><index>
+ <ISBN>9069420740</ISBN>
+ <date>1987</date>
+ <enddate>1987</enddate>
+ <PPN>AC:073098361</PPN>
+ <PPN>AC:075307456</PPN>
+ <PPN>AC:075367955</PPN>
+ <SelSleutel>gdj</SelSleutel>
+</index></metadata></record><record><header><identifier>GGC:AC:050517058</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">AV-materiaal</dc:type>
+ <dc:type xsi:type="DCMIType">MovingImage</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:050517058</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=050517058</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1988</dc:date>
+ <dc:title xml:lang="nl">De wereld van Kees Verkade [Beeld &amp;#38; Geluid] / [Wibo van de Linde]</dc:title>
+ <dc:contributor dcx:recordIdentifier="AC:069275521">Linde, Wibo van de</dc:contributor>
+ <dc:publisher>Hilversum : AVRO</dc:publisher>
+ <dcterms:extent>(35 min.)</dcterms:extent>
+ <dc:subject xsi:type="dcx:person" dcx:recordIdentifier="AC:189659033">Korstiaan Kees Verkade (1941-)</dc:subject>
+ <dc:subject xsi:type="dcx:Brinkman" xml:lang="nl" dcx:recordIdentifier="AC:075660601">kunstenaars</dc:subject>
+ <dcterms:abstract>Korte filmimpressie over de totstandkoming van het beeldje "de belofte", van beeldhouwer Kees Verkade.</dcterms:abstract>
+</srw_dc:dc><index>
+ <date>1988</date>
+ <enddate>1988</enddate>
+ <PPN>AC:069275521</PPN>
+ <PPN>AC:189659033</PPN>
+ <PPN>AC:075660601</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:099288036</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:099288036</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=099288036</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">onbepaald</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">und</dc:language>
+ <dc:language xml:lang="en">Undetermined </dc:language>
+ <dc:language xml:lang="fr">indéterminée</dc:language>
+ <dc:date>1957</dc:date>
+ <dc:title xml:lang=" ">Schets ener economische geschiedenis van Indonesië</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:070186952">Gonggrijp, George</dc:creator>
+ <dc:publisher>Haarlem</dc:publisher>
+ <dcterms:extent>?cm</dcterms:extent>
+</srw_dc:dc><index>
+ <date>1957</date>
+ <enddate>1957</enddate>
+ <PPN>AC:070186952</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:154964557</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">AV-materiaal</dc:type>
+ <dc:type xsi:type="DCMIType">MovingImage</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:154964557</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=154964557</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">duits</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+ <dc:language xml:lang="en">German</dc:language>
+ <dc:language xml:lang="fr">allemand</dc:language>
+ <dc:date>cop. 1996</dc:date>
+ <dc:title xml:lang="de">Die Enkel von Che Guevara und Coca-Cola [Beeld &amp;#38; Geluid] : neue Propheten der Werbung / ein Film von Thomas Langhoff</dc:title>
+ <dc:contributor dcx:recordIdentifier="AC:19787570X">Langhoff, Thomas</dc:contributor>
+ <dc:publisher>Frankfurt : Hessischer Rundfunk</dc:publisher>
+ <dc:publisher>[S.l.] : A.R.D</dc:publisher>
+ <dcterms:extent>(45 min.)</dcterms:extent>
+ <dcx:annotation>Uitz. 04-12-1996</dcx:annotation>
+ <dc:subject xsi:type="dcx:Brinkman" xml:lang="nl" dcx:recordIdentifier="AC:075620197">reclame</dc:subject>
+ <dcterms:abstract>Documentaire over reclamecampagnes anno '96. Eenvoudige billboards blijken niet meer te voldoen. Reclamemakers nemen trendsetters aan om de massa over de streep te trekken</dcterms:abstract>
+</srw_dc:dc><index>
+ <date>1996</date>
+ <enddate>1996</enddate>
+ <PPN>AC:19787570X</PPN>
+ <PPN>AC:075620197</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:060068027</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:060068027</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://opc4.kb.nl/DB=1/PPN?PPN=060068027</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9185058521</dc:identifier>
+ <dc:language xml:lang="nl">engels</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+ <dc:language xml:lang="en">English</dc:language>
+ <dc:language xml:lang="fr">anglais</dc:language>
+ <dc:date>1972</dc:date>
+ <dcx:annotation>Tevens proefschrift Lund</dcx:annotation>
+ <dcx:annotation>Met lit. opg., reg</dcx:annotation>
+ <dc:title xml:lang="en">The rock-tombs of Caunus / Paavo Roos</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:071754695">Roos, Paavo</dc:creator>
+ <dc:publisher>Göteborg : Åström</dc:publisher>
+ <dcterms:extent>126 p., 62 p.pl</dcterms:extent>
+ <dcterms:extent>32 cm</dcterms:extent>
+ <dcterms:isPartOf dcx:recordIdentifier="AC:831593431">Studies in Mediterranean archaeology ; vol. 34 : 1</dcterms:isPartOf>
+ <dcx:annotation>I: The architecture</dcx:annotation>
+ <dc:subject xsi:type="dcx:KB">0318 b</dc:subject>
+ <dcx:annotation dcx:itemId="080893309">Exemplaar met signatuur: S 437 34</dcx:annotation>
+</srw_dc:dc><index>
+ <ISBN>9185058521</ISBN>
+ <date>1972</date>
+ <enddate>1972</enddate>
+ <PPN>AC:071754695</PPN>
+ <PPN>AC:831593431</PPN>
+ <SelSleutel>rw</SelSleutel>
+</index></metadata></record><record><header><identifier>GGC:AC:196406196</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">artikel</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:196406196</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=196406196</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1989</dc:date>
+ <dc:title xml:lang="nl">Radicaal maar toch  redelijk : het ontstaan van de aktiegroep Man Vrouw Maatschappij (MVM) / Anneke Ribberink</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:072738782">Ribberink, Anneke</dc:creator>
+ <dc:publisher>[s.l.] : [s.n.]</dc:publisher>
+ <dcterms:extent>.. cm</dcterms:extent>
+ <dc:description>In: Amsterdams sociologisch tijdschrift</dc:description>
+</srw_dc:dc><index>
+ <date>1989</date>
+ <enddate>1989</enddate>
+ <PPN>AC:072738782</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:158374118</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:158374118</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=158374118</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1983</dc:date>
+ <dc:title xml:lang="nl">Als het stormt in het leven / Karin Peters</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:068873131">Peters, Karin</dc:creator>
+ <dc:publisher>Heerhugowaard : Kluitman Alkmaar</dc:publisher>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Kluitman romanserie - Zuster Jetty</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1983</date>
+ <enddate>1983</enddate>
+ <PPN>AC:068873131</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:811948196</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:811948196</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=811948196</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">engels</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+ <dc:language xml:lang="en">English</dc:language>
+ <dc:language xml:lang="fr">anglais</dc:language>
+ <dc:date>[1970]</dc:date>
+ <dc:title xml:lang="en">Community psychology : perspectives in training and research / ed. by Ira Iscoe [and] Charles D. Spielberger ; [with contrib. by John Altrocchi ... et al.]</dc:title>
+ <dc:contributor dcx:recordIdentifier="AC:073910228">Iscoe, Ira</dc:contributor>
+ <dc:contributor dcx:recordIdentifier="AC:068489412">Spielberger, Charles D.</dc:contributor>
+ <dc:contributor>Altrocchi, John</dc:contributor>
+ <dc:publisher>New York, N.Y. : Appleton-Century-Crofts</dc:publisher>
+ <dcterms:extent>xvi, 285 p</dcterms:extent>
+ <dcterms:extent>24 cm</dcterms:extent>
+ <dcterms:isPartOf>The Century psychology series</dcterms:isPartOf>
+ <dc:subject xsi:type="dcx:BCL">44.15</dc:subject>
+</srw_dc:dc><index>
+ <date>1970</date>
+ <enddate>1970</enddate>
+ <PPN>AC:073910228</PPN>
+ <PPN>AC:068489412</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:192676210</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:192676210</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=192676210</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1992</dc:date>
+ <dc:title xml:lang="nl">Het Rapenburg. Geschiedenis van een Leidse gracht. Deel VI a en VI b. Het Rijck van Pallas. Index van Personen / Th.H. Lunsingh Schuurleer, C.W. Fock, A.J. van Dissel, R.E.O. Ekkart, W. Otterspeer</dc:title>
+ <dc:creator>Lunsingh Schuurleer, Th.H.</dc:creator>
+ <dc:creator>Fock, C.W.</dc:creator>
+ <dc:creator dcx:recordIdentifier="AC:07109492X">Dissel, A.J. van</dc:creator>
+ <dc:creator>Ekkart, R.E.O.</dc:creator>
+ <dc:creator>Otterspeer, W.</dc:creator>
+ <dc:publisher>Leiden : Rijksuniversiteit van Leiden, Afdeling Geschiedenis van de Kunstnijverheid</dc:publisher>
+ <dcterms:extent>872; 155 p</dcterms:extent>
+ <dcterms:extent>4°</dcterms:extent>
+</srw_dc:dc><index>
+ <date>1992</date>
+ <enddate>1992</enddate>
+ <PPN>AC:07109492X</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:154042013</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:154042013</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=154042013</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">076453033X</dc:identifier>
+ <dc:identifier xsi:type="dcterms:ISBN">076453033X</dc:identifier>
+ <dc:language xml:lang="nl">engels</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+ <dc:language xml:lang="en">English</dc:language>
+ <dc:language xml:lang="fr">anglais</dc:language>
+ <dc:date>1997</dc:date>
+ <dc:title xml:lang="en">Creating cool Photoshop 4 web graphics / David D. Busch</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:07246030X">Busch, David D.</dc:creator>
+ <dc:publisher>Foster City, Calif. [etc.] : IDG Books</dc:publisher>
+ <dcterms:extent>301 p</dcterms:extent>
+ <dcterms:extent>24 cm</dcterms:extent>
+ <dcx:annotation>Compact disc as insert</dcx:annotation>
+</srw_dc:dc><index>
+ <ISBN>076453033X</ISBN>
+ <date>1997</date>
+ <enddate>1997</enddate>
+ <PPN>AC:07246030X</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:14992397X</identifier><datestamp>2009-06-04</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:14992397X</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=14992397X</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">engels</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+ <dc:language xml:lang="en">English</dc:language>
+ <dc:language xml:lang="fr">anglais</dc:language>
+ <dc:date>1996</dc:date>
+ <dc:title xml:lang="en">The role of nitric oxide in the central nervous system : from basic to therapeutics aspects / guest ed.: Hiroshi Kimura, Harry W. M. Steinbusch</dc:title>
+ <dc:contributor>Kimura, Hiroshi</dc:contributor>
+ <dc:contributor dcx:recordIdentifier="AC:06870044X">Steinbusch, Harry W. M.</dc:contributor>
+ <dc:publisher>Amsterdam [etc.] : Elsevier</dc:publisher>
+ <dcterms:extent>P. 179-322</dcterms:extent>
+ <dcterms:extent>28 cm</dcterms:extent>
+ <dcterms:isPartOf xsi:type="dcterms:ISSN">0891-0618</dcterms:isPartOf>
+ <dcterms:isPartOf>Journal of chemical neuroanatomy, ISSN 0891-0618 ; vol. 10, no. 3-4</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1996</date>
+ <enddate>1996</enddate>
+ <PPN>AC:06870044X</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:801122791</identifier><datestamp>2009-06-05</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:801122791</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=801122791</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">italiaans</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">ita</dc:language>
+ <dc:language xml:lang="en">Italian</dc:language>
+ <dc:language xml:lang="fr">italien</dc:language>
+ <dc:date>1978-...</dc:date>
+ <dc:title xml:lang="it">Vetvlonia / Claudio B. Curri</dc:title>
+ <dcterms:alternative>Vetulonia</dcterms:alternative>
+ <dc:creator dcx:recordIdentifier="AC:068343590">Curri, Claudio B.</dc:creator>
+ <dc:contributor>Unione accademica nazionale</dc:contributor>
+ <dc:contributor>Istituto di topografia antica dell'Università di Roma</dc:contributor>
+ <dc:publisher>Firenze : Olschki</dc:publisher>
+ <dcterms:extent>206 p</dcterms:extent>
+ <dcterms:extent>34 cm</dcterms:extent>
+ <dcterms:isPartOf>Forma Italiae. Regio VII ; vol. 5</dcterms:isPartOf>
+ <dcx:annotation>Aan de kop van de titelpagina: Unione accademica nazionale. Istituto di topografia antica dell'Università di Roma</dcx:annotation>
+ <dc:description>Ook o.d.t.: Vetulonia</dc:description>
+ <dcx:annotation>I. Lavoro eseguito e pubblicato con il del Consiglio nazionale delle richerche</dcx:annotation>
+</srw_dc:dc><index>
+ <date>1978</date>
+ <enddate>9999</enddate>
+ <PPN>AC:068343590</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:057725063</identifier><datestamp>2009-06-05</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:057725063</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://opc4.kb.nl/DB=1/PPN?PPN=057725063</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">902322521X</dc:identifier>
+ <dc:identifier xsi:type="dcx:Brinkman">B9005129</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1990</dc:date>
+ <dcx:annotation>Met lit. opg</dcx:annotation>
+ <dc:title xml:lang="nl">Management van technologische vernieuwing / J.F. den Hertog en F.M. van Eĳnatten (red.) ; [bĳdragen:] H.B. Bertsch ... [et al.]</dc:title>
+ <dc:contributor dcx:recordIdentifier="AC:068417896">Hertog, J.F. den</dc:contributor>
+ <dc:contributor dcx:recordIdentifier="AC:070850968">Eĳnatten, F.M. van</dc:contributor>
+ <dc:contributor dcx:recordIdentifier="AC:074949365">Bertsch, H.B.</dc:contributor>
+ <dc:publisher>Assen [etc.] : Van Gorcum</dc:publisher>
+ <dcterms:extent>VIII, 177 p</dcterms:extent>
+ <dcterms:extent>24 cm</dcterms:extent>
+ <dc:subject xsi:type="dcx:Brinkman" xml:lang="nl" dcx:recordIdentifier="AC:075664321">technologische vernieuwing</dc:subject>
+ <dcterms:abstract>Inleiding in het managen van technologische vernieuwing binnen het spanningsveld van de markt en de technologische ontwikkelingen.</dcterms:abstract>
+ <dc:subject xsi:type="dcx:KB">0295 ga</dc:subject>
+ <dcx:annotation dcx:itemId="09988836X">Exemplaar met signatuur: 4025719</dcx:annotation>
+ <dcx:annotation dcx:itemId="11262717X">Exemplaar met signatuur: MBG 283</dcx:annotation>
+</srw_dc:dc><index>
+ <ISBN>902322521X</ISBN>
+ <date>1990</date>
+ <enddate>1990</enddate>
+ <PPN>AC:068417896</PPN>
+ <PPN>AC:070850968</PPN>
+ <PPN>AC:074949365</PPN>
+ <PPN>AC:078039231</PPN>
+ <PPN>AC:07810324X</PPN>
+ <PPN>AC:075664321</PPN>
+ <SelSleutel>gda</SelSleutel>
+ <SelSleutel>gwBHT</SelSleutel>
+</index></metadata></record><record><header><identifier>GGC:AC:163948453</identifier><datestamp>2009-06-05</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="en">software</dc:type>
+ <dc:type xsi:type="DCMIType">InteractiveResource</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:163948453</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=163948453</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9074512321</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>cop. 1997</dc:date>
+ <dc:title xml:lang="nl">Tropische Geneeskunde en Importpathologie / E. Van den Enden, A. Van Gompel</dc:title>
+ <dc:creator>Enden, E. Van den</dc:creator>
+ <dc:creator dcx:recordIdentifier="AC:195500369">Gompel, A. Van</dc:creator>
+ <dc:publisher>Aartselaar : Lasion Europe</dc:publisher>
+ <dcterms:extent>1 CD-ROM</dcterms:extent>
+ <dcx:annotation>Systeemeisen: min. IBM-pc of compatible (386) ; kleurenscherm (640 x 480, tenminste 256 kleuren) ; CD-ROM-speler</dcx:annotation>
+</srw_dc:dc><index>
+ <ISBN>9074512321</ISBN>
+ <date>1997</date>
+ <enddate>1997</enddate>
+ <PPN>AC:195500369</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:134889614</identifier><datestamp>2009-06-05</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:134889614</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=134889614</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">frans</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">fre</dc:language>
+ <dc:language xml:lang="en">French</dc:language>
+ <dc:language xml:lang="fr">français</dc:language>
+ <dc:date>1908-1912</dc:date>
+ <dc:title xml:lang="fr">Lettres : textes et analyses publ. par A. Fayen / Paus XXII Johannes</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:071587640">Paus XXII Johannes</dc:creator>
+ <dc:contributor dcx:recordIdentifier="AC:071625348">Fayen, A.</dc:contributor>
+ <dc:publisher>Rome</dc:publisher>
+ <dcterms:extent>2 tomes in 3 bdn</dcterms:extent>
+ <dcterms:extent>8'</dcterms:extent>
+ <dcterms:isPartOf>Analecta vaticano-Belgica</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <date>1908</date>
+ <enddate>1908</enddate>
+ <PPN>AC:071587640</PPN>
+ <PPN>AC:071625348</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:054517893</identifier><datestamp>2009-06-05</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:054517893</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://opc4.kb.nl/DB=1/PPN?PPN=054517893</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9020418823</dc:identifier>
+ <dc:identifier xsi:type="dcx:Brinkman">B8914568</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>cop. 1989</dc:date>
+ <dcx:annotation>Met lit. opg</dcx:annotation>
+ <dc:title xml:lang="nl">Denken als hoofdzaak : een nieuwe methode voor het management / Ben Heirs ; met Peter Farrell ; [vert. uit het Engels door H.G. Nĳk]</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:074586041">Heirs, Ben</dc:creator>
+ <dc:contributor dcx:recordIdentifier="AC:074585991">Farrell, Peter</dc:contributor>
+ <dc:contributor dcx:recordIdentifier="AC:06913944X">Nĳk, H.G.</dc:contributor>
+ <dc:publisher>Utrecht ; Antwerpen : Veen</dc:publisher>
+ <dcterms:extent>230 p</dcterms:extent>
+ <dcterms:extent>21 cm</dcterms:extent>
+ <dc:description>Vert. van: The professional decision thinker. - Londen : Sidgwick &amp;#38; Jackson, 1986</dc:description>
+ <dc:subject xsi:type="dcx:Brinkman" xml:lang="nl" dcx:recordIdentifier="AC:075614545">management</dc:subject>
+ <dc:subject xsi:type="dcx:BCL">85.00</dc:subject>
+ <dc:subject xsi:type="dcx:BCL">85.05</dc:subject>
+ <dcterms:abstract>Aanbevelingen voor managers om na te denken over planning.</dcterms:abstract>
+ <dcx:annotation dcx:itemId="099744759">Exemplaar met signatuur: 2027715</dcx:annotation>
+</srw_dc:dc><index>
+ <ISBN>9020418823</ISBN>
+ <date>1989</date>
+ <enddate>1989</enddate>
+ <PPN>AC:074586041</PPN>
+ <PPN>AC:074585991</PPN>
+ <PPN>AC:06913944X</PPN>
+ <PPN>AC:078039231</PPN>
+ <PPN>AC:075614545</PPN>
+ <SelSleutel>gda</SelSleutel>
+</index></metadata></record><record><header><identifier>GGC:AC:840222009</identifier><datestamp>2009-06-05</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:840222009</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://opc4.kb.nl/DB=1/PPN?PPN=840222009</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1951</dc:date>
+ <dc:title xml:lang="nl">Veertig jaar katholieke uitgeverĳ / Anton van Duinkerken</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:068634196">Duinkerken, Anton van</dc:creator>
+ <dc:publisher>Bussum : Brand</dc:publisher>
+ <dcterms:extent>135 p</dcterms:extent>
+ <dcterms:extent>20 cm</dcterms:extent>
+ <dcx:annotation>Met alphabetische naamlĳst van de uitgaven naar de namen van de auteurs</dcx:annotation>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:149770448">Uitgeverĳ $Paul $Brand</dc:subject>
+ <dc:subject xsi:type="dcx:GOO" xml:lang="nl" dcx:recordIdentifier="AC:08814285X">Boekhandelscatalogi (vorm)</dc:subject>
+ <dc:subject xsi:type="dcx:BCL" dcx:recordIdentifier="AC:077593014">06.23</dc:subject>
+ <dcterms:temporal>1900-1950</dcterms:temporal>
+ <dcterms:temporal>1950-1960</dcterms:temporal>
+ <dcx:annotation dcx:itemId="068376804">Exemplaar met signatuur: 6034 G 5</dcx:annotation>
+ <dcx:annotation dcx:itemId="266409237">Exemplaar met signatuur: 2159544</dcx:annotation>
+</srw_dc:dc><index>
+ <date>1951</date>
+ <enddate>1951</enddate>
+ <PPN>AC:068634196</PPN>
+ <PPN>AC:149770448</PPN>
+ <PPN>AC:173172784</PPN>
+ <PPN>AC:11132968X</PPN>
+ <PPN>AC:08814285X</PPN>
+ <PPN>AC:077593014</PPN>
+ <PPN>AC:241924766</PPN>
+ <PPN>AC:241925061</PPN>
+ <SelSleutel>rw</SelSleutel>
+ <SelSleutel>gdo</SelSleutel>
+</index></metadata></record><record><header><identifier>GGC:AC:200309056</identifier><datestamp>2009-06-05</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:200309056</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=200309056</dcx:recordIdentifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1883</dc:date>
+ <dc:title xml:lang="nl">Huyg de Groot in AMsterdam, 1623 : blijspel in twee bedrijven</dc:title>
+ <dc:creator>Alberdingk Thijm, Josef Albert</dc:creator>
+ <dc:publisher>Amsterdam : Van Langenhuysen</dc:publisher>
+ <dcterms:extent>[VI], 30 p</dcterms:extent>
+ <dcterms:extent>.. cm</dcterms:extent>
+</srw_dc:dc><index>
+ <date>1883</date>
+ <enddate>1883</enddate>
+ <PPN>AC:840452233</PPN>
+</index></metadata></record><record><header><identifier>GGC:AC:176022864</identifier><datestamp>2009-06-05</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:mods="http://www.loc.gov/mods" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:type xml:lang="nl">boek</dc:type>
+ <dc:type xsi:type="DCMIType">Text</dc:type>
+ <dcterms:isPartOf xsi:type="dcx:collectionIdentifier">Algemene Catalogus KB</dcterms:isPartOf>
+ <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=PPN:176022864</dc:identifier>
+ <dcx:recordIdentifier xsi:type="dcterms:URI">http://picarta.pica.nl/DB=2.4/PPN?PPN=176022864</dcx:recordIdentifier>
+ <dc:identifier xsi:type="dcterms:ISBN">9051120621</dc:identifier>
+ <dc:language xml:lang="nl">nederlands</dc:language>
+ <dc:language xsi:type="dcterms:ISO639-2">dut</dc:language>
+ <dc:language xml:lang="en">Dutch; Flemish</dc:language>
+ <dc:language xml:lang="fr">néerlandais; flamand</dc:language>
+ <dc:date>1990</dc:date>
+ <dc:title xml:lang="nl">Dokter Werner / Nel van der Zee</dc:title>
+ <dc:creator dcx:recordIdentifier="AC:068765681">Zee, Nel van der</dc:creator>
+ <dc:publisher>Weert : Zuid-Hollandsche Uitgeversmaatschappij</dc:publisher>
+ <dcterms:extent>153</dcterms:extent>
+ <dcterms:extent>..cm</dcterms:extent>
+ <dcterms:isPartOf>Gouden vijf</dcterms:isPartOf>
+</srw_dc:dc><index>
+ <ISBN>9051120621</ISBN>
+ <date>1990</date>
+ <enddate>1990</enddate>
+ <PPN>AC:068765681</PPN>
+</index></metadata></record><resumptionToken>GGC!2009-06-04T23:58:56.803Z!null!INDEXING!100</resumptionToken></ListRecords></OAI-PMH>

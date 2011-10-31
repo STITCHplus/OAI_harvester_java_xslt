@@ -1,0 +1,155 @@
+<harvesters>
+    <harvester name="HISTMAPS">
+        <oai_baseurl>http://serviceso.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>MAPS</oai_setname>
+        <oai_metadataprefix>dcx+index</oai_metadataprefix>
+        <oai_from/>
+        <oai_to/>
+        <oai_optional/>
+        <oai_resumption_token></oai_resumption_token>
+        <solr_pre_xslt>MAPS_default.xsl</solr_pre_xslt>
+        <solr_target>http://localhost:8080/solr/maps/update</solr_target>
+    </harvester>
+     <harvester name="GGC_default">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>GGC</oai_setname>
+        <oai_metadataprefix>INDEXING</oai_metadataprefix>
+        <oai_from/>
+        <oai_to/>
+        <oai_optional/>
+        <oai_resumption_token></oai_resumption_token>
+        <solr_pre_xslt>GGC_default.xsl</solr_pre_xslt>
+        <solr_target>http://localhost:8080/solr/ggc/update</solr_target>
+    </harvester>
+    <harvester name="GGC_mixed">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>GGC</oai_setname>
+        <oai_resumption_token/>
+        <oai_metadataprefix>INDEXING</oai_metadataprefix>
+        <solr_target>http://www.kbresearch.nl/solr/mixed/raw/update</solr_target>
+        <solr_pre_xslt>GGC_default.xsl</solr_pre_xslt>
+    </harvester>
+
+    <harvester name="EDEPOT_default">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>EDEPOT</oai_setname>
+        <oai_from>2006-03-03</oai_from>
+        <oai_resumption_token>EDEPOT!2007-06-18T09:36:07.287Z!null!dcx!5866400</oai_resumption_token>
+        <oai_metadataprefix>INDEXING</oai_metadataprefix>
+        <solr_target>http://localhost:8080/solr/edepot/update</solr_target>
+        <solr_pre_xslt>EDEPOT_default.xsl</solr_pre_xslt>
+    </harvester>
+
+    <harvester name="EDEPOT_mixed">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>EDEPOT</oai_setname>
+        <oai_resumption_token/>
+        <oai_metadataprefix>INDEXING</oai_metadataprefix>
+        <solr_target>http://www.kbresearch.nl:8080/solr/mixed/update</solr_target>
+        <solr_pre_xslt>EDEPOT_default.xsl</solr_pre_xslt>
+    </harvester>
+
+    <harvester name="DARE_default">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>GGC</oai_setname>
+        <oai_resumption_token/>
+        <oai_metadataprefix>INDEXING</oai_metadataprefix>
+        <solr_target>http://www.kbresearch.nl:8080/solr/dare/update</solr_target>
+        <solr_pre_xslt>DARE_default.xsl</solr_pre_xslt>
+    </harvester>
+
+    <harvester name="DARE_mixed">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>DARE</oai_setname>
+        <oai_resumption_token/>
+        <oai_metadataprefix>INDEXING</oai_metadataprefix>
+        <solr_target>http://www.kbresearch.nl:8080/solr/mixed/update</solr_target>
+        <solr_pre_xslt>DARE_default.xsl</solr_pre_xslt>
+    </harvester>
+
+    <harvester name="GVN_default">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>GVN</oai_setname>
+        <oai_resumption_token/>
+        <oai_metadataprefix>INDEXING</oai_metadataprefix>
+        <solr_target>http://tomcat1.kbresearch.nl/solr/gvn/update</solr_target>
+        <solr_pre_xslt>GVN_default.xsl</solr_pre_xslt>
+    </harvester>
+
+    <harvester name="GVN_mixed">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>GVN</oai_setname>
+        <oai_resumption_token/>
+        <oai_metadataprefix>INDEXING</oai_metadataprefix>
+        <solr_target>http://www.kbresearch.nl:8080/solr/mixed/update</solr_target>
+        <solr_pre_xslt>GVN_default.xsl</solr_pre_xslt>
+    </harvester>
+
+    <harvester name="DDD_mixed">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>DDD</oai_setname>
+        <oai_resumption_token/>
+        <oai_metadataprefix>didl</oai_metadataprefix>
+        <solr_target>http://www.kbresearch.nl:8080/solr/mixed/update</solr_target>
+        <solr_pre_xslt>DDD_default.xsl</solr_pre_xslt>
+    </harvester>
+
+    <harvester name="DDD_default">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>DDD</oai_setname>
+        <oai_resumption_token>DDD!2009-11-11T14:59:33.212Z!null!didl!1500</oai_resumption_token>
+        <oai_metadataprefix>didl</oai_metadataprefix>
+        <solr_target>http://www.kbresearch.nl:8080/solr/ddd/update</solr_target>
+        <solr_pre_xslt>DDD_default.xsl</solr_pre_xslt>
+    </harvester>
+
+    <harvester name="ANP_expand">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>anp</oai_setname>
+        <oai_resumption_token>anp!2008-09-24T14:53:25.715Z!null!didl!1434800</oai_resumption_token>
+        <oai_metadataprefix>didl</oai_metadataprefix>
+        <solr_target>http://www.kbresearch.nl/solr/anp-expand/raw/update</solr_target>
+        <solr_pre_xslt>ANP_expand.xsl</solr_pre_xslt>
+    </harvester>
+
+
+    <harvester name="ANP_default">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>anp</oai_setname>
+        <oai_resumption_token>anp!2008-09-24T14:53:25.715Z!null!didl!1434800</oai_resumption_token>
+        <oai_metadataprefix>didl</oai_metadataprefix>
+        <solr_target>http://www.kbresearch.nl:8080/solr/anp/update</solr_target>
+        <solr_pre_xslt>ANP_default.xsl</solr_pre_xslt>
+    </harvester>
+
+    <harvester name="ANP_mixed">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>anp</oai_setname>
+        <oai_resumption_token>anp!2008-09-24T12:03:40.103Z!null!didl!1003600</oai_resumption_token>
+        <oai_metadataprefix>didl</oai_metadataprefix>
+        <solr_target>http://www.kbresearch.nl/solr/mixed/raw/update</solr_target>
+        <solr_pre_xslt>ANP_default.xsl</solr_pre_xslt>
+    </harvester>
+
+
+
+    <harvester name="GGC-THES_default">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>GGC-THES</oai_setname>
+        <oai_resumption_token/>
+        <oai_metadataprefix>INDEXING</oai_metadataprefix>
+        <solr_target>http://www.kbresearch.nl:8080/solr/ggc-thes/update</solr_target>
+        <solr_pre_xslt>GGC-THES_default.xsl</solr_pre_xslt>
+    </harvester>
+    <harvester name="DPO_default">
+        <oai_baseurl>http://serviceso.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>DPO</oai_setname>
+        <oai_metadataprefix>INDEXING</oai_metadataprefix>
+        <oai_from/>
+        <oai_to/>
+        <oai_optional/>
+        <oai_resumption_token/>
+        <solr_pre_xslt>DPO_default.xsl</solr_pre_xslt>
+        <solr_target>http://localhost:8080/solr/dpo/update</solr_target>
+    </harvester>
+</harvesters>

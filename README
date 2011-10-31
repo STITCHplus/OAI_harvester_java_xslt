@@ -1,0 +1,5 @@
+Expirimental OAI harvester.
+
+Input OAI, Output SOLR / Lucene.
+
+Works command line.

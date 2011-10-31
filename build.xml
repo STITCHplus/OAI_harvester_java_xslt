@@ -1,0 +1,37 @@
+<project default="jar">
+    <property file="build.properties"/>
+
+    <property name="lib.dir"     value="lib"/>
+    <path id="classpath">
+            <fileset dir="${lib.dir}" includes="**/*.jar"/>
+    </path>
+
+    <target name="clean" description="remove intermediate files">
+        <delete dir="classes"/>
+    </target>
+
+    <target name="compile">
+        <javac srcdir="." classpathref="classpath"/>
+    </target>
+
+ 
+   <target name="jar" depends="compile">
+      <property name="log4j.configuration" value="lib/log4j.properties"/>
+     <delete file="${app.name}.jar"/>
+     <delete file="MANIFEST.MF"/>
+     <manifest file="MANIFEST.MF">
+        <attribute name="Built-By" value="${user.name}"/>
+        <attribute name="Main-Class" value="harvester.SolrHarvester"/>
+        <attribute name="Class-Path" value="lib/log4j.jar"/>
+    </manifest>
+
+   <jar destfile="${app.name}.jar"
+        basedir="."
+        manifest="META-INF/MANIFEST.MF"
+        includes="**/*.class" />
+    </target>
+
+
+  <target name="buildSolrHarvester" depends="compile" />
+</project>
+

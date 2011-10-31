@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 14.2-b01 (Sun Microsystems Inc.)
+Built-By: root
+Main-Class: OAI_harvester.OAI_harvester
+Class-Path: lib/log4j.jar
